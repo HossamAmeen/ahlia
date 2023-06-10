@@ -1,0 +1,797 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "ngpbJHLE423NDv5GCpi9us4_BiQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RQwCmO8GPy9P_Ca5SUNii6G21xI",
+      "id": "UExzTV9SeHFJdlJ0cTg5SVNyQ3h6V1liMk9qeTcxV2ZNMi41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2021-09-03T16:19:53Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "01 كتاب آداب الكسب والمعاش من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الأول\nفى شرح كتاب آداب الكسب والمعاش من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XkStYx1amRc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XkStYx1amRc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XkStYx1amRc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XkStYx1amRc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq89ISrCxzWYb2Ojy71WfM2",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XkStYx1amRc"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "XkStYx1amRc",
+        "videoPublishedAt": "2021-09-03T16:19:54Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hNuAsz0AAliCL-4zYEw_okZ-gPQ",
+      "id": "UExzTV9SeHFJdlJ0cTg5SVNyQ3h6V1liMk9qeTcxV2ZNMi4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2021-09-03T16:48:29Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "02 كتاب آداب الكسب والمعاش من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثاني\nفى شرح كتاب آداب الكسب والمعاش من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ez2xB8x_8gE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ez2xB8x_8gE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ez2xB8x_8gE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ez2xB8x_8gE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq89ISrCxzWYb2Ojy71WfM2",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ez2xB8x_8gE"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "Ez2xB8x_8gE",
+        "videoPublishedAt": "2021-09-03T16:22:33Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "q2tFXn6kuZlfIrsPAZSBTIwbJlg",
+      "id": "UExzTV9SeHFJdlJ0cTg5SVNyQ3h6V1liMk9qeTcxV2ZNMi4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2021-09-03T16:52:15Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "03 كتاب آداب الكسب والمعاش من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثالث\nفى شرح كتاب آداب الكسب والمعاش من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L10oG0EhIuo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L10oG0EhIuo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L10oG0EhIuo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/L10oG0EhIuo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq89ISrCxzWYb2Ojy71WfM2",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "L10oG0EhIuo"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "L10oG0EhIuo",
+        "videoPublishedAt": "2021-09-03T16:52:16Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EmKCgfUT159ocSzs3FPmZTNx-xA",
+      "id": "UExzTV9SeHFJdlJ0cTg5SVNyQ3h6V1liMk9qeTcxV2ZNMi41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2021-09-03T16:52:58Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "04 كتاب آداب الكسب والمعاش من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الرابع\nفى شرح كتاب آداب الكسب والمعاش من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LKp-NfXP7mg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LKp-NfXP7mg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LKp-NfXP7mg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LKp-NfXP7mg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq89ISrCxzWYb2Ojy71WfM2",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LKp-NfXP7mg"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "LKp-NfXP7mg",
+        "videoPublishedAt": "2021-09-03T16:52:58Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZHNf99ELj0Y4aRItjc3Ryl6KlZ4",
+      "id": "UExzTV9SeHFJdlJ0cTg5SVNyQ3h6V1liMk9qeTcxV2ZNMi4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2021-09-03T16:53:39Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "05 كتاب آداب الكسب والمعاش من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الخامس\nفى شرح كتاب آداب الكسب والمعاش من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RxZoA-me2Mw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RxZoA-me2Mw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RxZoA-me2Mw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RxZoA-me2Mw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq89ISrCxzWYb2Ojy71WfM2",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RxZoA-me2Mw"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "RxZoA-me2Mw",
+        "videoPublishedAt": "2021-09-03T16:53:40Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tkeYpAZ1NdVCJcBsjTAKnazWnm8",
+      "id": "UExzTV9SeHFJdlJ0cTg5SVNyQ3h6V1liMk9qeTcxV2ZNMi4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2021-09-03T16:55:11Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "06 كتاب آداب الكسب والمعاش من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس السادس\nفى شرح كتاب آداب الكسب والمعاش من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1-AOhLojiV4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1-AOhLojiV4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1-AOhLojiV4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1-AOhLojiV4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq89ISrCxzWYb2Ojy71WfM2",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1-AOhLojiV4"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "1-AOhLojiV4",
+        "videoPublishedAt": "2021-09-03T16:55:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TkARvZ-wHvw1u9pKcvzVxcs3Lv4",
+      "id": "UExzTV9SeHFJdlJ0cTg5SVNyQ3h6V1liMk9qeTcxV2ZNMi41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2021-09-03T16:56:06Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "07 كتاب آداب الكسب والمعاش من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس السابع\nفى شرح كتاب آداب الكسب والمعاش من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bq3gZYQyZds/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bq3gZYQyZds/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bq3gZYQyZds/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bq3gZYQyZds/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq89ISrCxzWYb2Ojy71WfM2",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bq3gZYQyZds"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "bq3gZYQyZds",
+        "videoPublishedAt": "2021-09-03T16:56:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xqPmEOTMdGGMOLyDhV3SvW4FMRg",
+      "id": "UExzTV9SeHFJdlJ0cTg5SVNyQ3h6V1liMk9qeTcxV2ZNMi5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2021-09-03T16:57:09Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "08 كتاب آداب الكسب والمعاش من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثامن\nفى شرح كتاب آداب الكسب والمعاش من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1w5c0Vwrb2U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1w5c0Vwrb2U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1w5c0Vwrb2U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1w5c0Vwrb2U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq89ISrCxzWYb2Ojy71WfM2",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1w5c0Vwrb2U"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "1w5c0Vwrb2U",
+        "videoPublishedAt": "2021-09-03T16:57:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wrncxJTBDjTqX8uCLz0TkQjh6_E",
+      "id": "UExzTV9SeHFJdlJ0cTg5SVNyQ3h6V1liMk9qeTcxV2ZNMi45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2021-09-03T16:57:51Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "09 كتاب آداب الكسب والمعاش من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس التاسع\nفى شرح كتاب آداب الكسب والمعاش من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_8JA1luQFX8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_8JA1luQFX8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_8JA1luQFX8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_8JA1luQFX8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq89ISrCxzWYb2Ojy71WfM2",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_8JA1luQFX8"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "_8JA1luQFX8",
+        "videoPublishedAt": "2021-09-03T16:57:52Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jPg9QIIjKXME1QNfwMROa-XTSJo",
+      "id": "UExzTV9SeHFJdlJ0cTg5SVNyQ3h6V1liMk9qeTcxV2ZNMi5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2021-09-03T16:58:47Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "10 كتاب آداب الكسب والمعاش من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس العاشر\nفى شرح كتاب آداب الكسب والمعاش من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LiQzv_1G050/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LiQzv_1G050/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LiQzv_1G050/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LiQzv_1G050/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq89ISrCxzWYb2Ojy71WfM2",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LiQzv_1G050"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "LiQzv_1G050",
+        "videoPublishedAt": "2021-09-03T16:58:48Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Vgdf5udCs1mNvnwR-z-OLpMTlEc",
+      "id": "UExzTV9SeHFJdlJ0cTg5SVNyQ3h6V1liMk9qeTcxV2ZNMi40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2021-09-03T17:00:07Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "11 كتاب آداب الكسب والمعاش من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الحادي عشر\nفى شرح كتاب آداب الكسب والمعاش من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jKMrSPVgSDc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jKMrSPVgSDc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jKMrSPVgSDc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jKMrSPVgSDc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jKMrSPVgSDc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq89ISrCxzWYb2Ojy71WfM2",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jKMrSPVgSDc"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "jKMrSPVgSDc",
+        "videoPublishedAt": "2021-09-03T17:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-BQvBuSCm_TO5I0IwKp55M8G0Xw",
+      "id": "UExzTV9SeHFJdlJ0cTg5SVNyQ3h6V1liMk9qeTcxV2ZNMi5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2021-09-03T17:00:55Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "12 كتاب آداب الكسب والمعاش من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثاني عشر\nفى شرح كتاب آداب الكسب والمعاش من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZJrrKAwpvtM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZJrrKAwpvtM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZJrrKAwpvtM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZJrrKAwpvtM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq89ISrCxzWYb2Ojy71WfM2",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZJrrKAwpvtM"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "ZJrrKAwpvtM",
+        "videoPublishedAt": "2021-09-03T17:00:55Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zGUygvHb-5U94kamr_r-p61Q8eM",
+      "id": "UExzTV9SeHFJdlJ0cTg5SVNyQ3h6V1liMk9qeTcxV2ZNMi45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2021-09-03T17:01:56Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "13 كتاب آداب الكسب والمعاش من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثالث عشر\nفى شرح كتاب آداب الكسب والمعاش من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g5iPtkmDi70/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g5iPtkmDi70/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g5iPtkmDi70/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq89ISrCxzWYb2Ojy71WfM2",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "g5iPtkmDi70"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "g5iPtkmDi70",
+        "videoPublishedAt": "2021-09-03T17:01:57Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MHs8YBXubS7i1AgUGhacqhasVtY",
+      "id": "UExzTV9SeHFJdlJ0cTg5SVNyQ3h6V1liMk9qeTcxV2ZNMi4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2021-09-03T17:02:38Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "14 كتاب آداب الكسب والمعاش من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الرابع عشر\nفى شرح كتاب آداب الكسب والمعاش من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D_Ri1z2zerw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D_Ri1z2zerw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D_Ri1z2zerw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq89ISrCxzWYb2Ojy71WfM2",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "D_Ri1z2zerw"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "D_Ri1z2zerw",
+        "videoPublishedAt": "2021-09-03T17:02:39Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hAFnwuhQ8DYQca9CoEISt9HeyRU",
+      "id": "UExzTV9SeHFJdlJ0cTg5SVNyQ3h6V1liMk9qeTcxV2ZNMi41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2021-09-03T17:03:28Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "15 كتاب آداب الكسب والمعاش من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الخامس عشر\nفى شرح كتاب آداب الكسب والمعاش من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wnArapLn6p0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wnArapLn6p0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wnArapLn6p0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wnArapLn6p0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wnArapLn6p0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq89ISrCxzWYb2Ojy71WfM2",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wnArapLn6p0"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "wnArapLn6p0",
+        "videoPublishedAt": "2021-09-03T17:03:29Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DSCysVJRqRU5_u7OUFQkmGs5AaI",
+      "id": "UExzTV9SeHFJdlJ0cTg5SVNyQ3h6V1liMk9qeTcxV2ZNMi5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2021-09-03T17:04:08Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "16 كتاب آداب الكسب والمعاش من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس السادس عشر\nفى شرح كتاب آداب الكسب والمعاش من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lqIL9_J0nNU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lqIL9_J0nNU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lqIL9_J0nNU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lqIL9_J0nNU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lqIL9_J0nNU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq89ISrCxzWYb2Ojy71WfM2",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lqIL9_J0nNU"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "lqIL9_J0nNU",
+        "videoPublishedAt": "2021-09-03T17:04:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hDNeDIqsiTUBEYjuloMP7b4ksVw",
+      "id": "UExzTV9SeHFJdlJ0cTg5SVNyQ3h6V1liMk9qeTcxV2ZNMi41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2021-09-03T17:04:49Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "17 كتاب آداب الكسب والمعاش من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس السابع عشر\nفى شرح كتاب آداب الكسب والمعاش من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jMbCJ9F6Q3k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jMbCJ9F6Q3k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jMbCJ9F6Q3k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jMbCJ9F6Q3k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq89ISrCxzWYb2Ojy71WfM2",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jMbCJ9F6Q3k"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "jMbCJ9F6Q3k",
+        "videoPublishedAt": "2021-09-03T17:04:49Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 17,
+    "resultsPerPage": 50
+  }
+}

@@ -1,0 +1,2305 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "f0PN6FpWBHMHVbK9Dbtem1ESJDo",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iHFRCi_DhBunkwklXKuohAwYpAA",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-06-13T08:52:21Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "01 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الأول\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف\n\n\n0:55 بداية كتاب العلم \n2:36 فضيلة العلم وشواهدها من القرآن \n21:20 فضيلة العلم وشواهدها من السنة",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FdF4MAuDmls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FdF4MAuDmls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FdF4MAuDmls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FdF4MAuDmls/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FdF4MAuDmls/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FdF4MAuDmls"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "FdF4MAuDmls",
+        "videoPublishedAt": "2020-06-13T08:56:22Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "48sP_Z-YvJvMYhkGvX_ExfNEEVc",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-06-13T09:17:17Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "02 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثانى\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف\n01:14 تابع الأحاديث الواردة فى فضل العلم \n 19:34 الآثار الواردة فى فضل العلم",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dGneN5hlttQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dGneN5hlttQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dGneN5hlttQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dGneN5hlttQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dGneN5hlttQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dGneN5hlttQ"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "dGneN5hlttQ",
+        "videoPublishedAt": "2020-06-13T09:17:37Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "B9P9z4OiRwK28TwE87hgCo1jOVg",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-06-13T09:36:48Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "03 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثالث\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف\n1:18 الآيات الواردة فى فضل التعلم \n5:12 الأحاديث الواردة فى فضل التعلم\n1:09:42 الآثار الواردة فى فضل التعلم",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OzAPhfwcWpA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OzAPhfwcWpA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OzAPhfwcWpA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OzAPhfwcWpA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OzAPhfwcWpA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OzAPhfwcWpA"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "OzAPhfwcWpA",
+        "videoPublishedAt": "2020-06-13T09:48:52Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JL62pdBBKVbCTDHN5w8wk9yqjbI",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-06-13T10:07:29Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "04 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الرابع\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف\n1:33 الآيات الواردة فى فضل التعليم \n8:17 الأحاديث الواردة فى فضل التعليم",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-7qMQyaKKQU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-7qMQyaKKQU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-7qMQyaKKQU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-7qMQyaKKQU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-7qMQyaKKQU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-7qMQyaKKQU"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "-7qMQyaKKQU",
+        "videoPublishedAt": "2020-06-13T10:08:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "N6sOd40EoMzUH40Xzzl5YFZn9z8",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-06-13T10:57:58Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "05 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الخامس\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف\n\n\n 1:33 الآثار الواردة فى فضل التعليم",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mMVFxTkYX7A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mMVFxTkYX7A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mMVFxTkYX7A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mMVFxTkYX7A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mMVFxTkYX7A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mMVFxTkYX7A"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "mMVFxTkYX7A",
+        "videoPublishedAt": "2020-06-13T10:59:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZeGViISDEZv0Hcxyxz2MzvzJKns",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-06-13T11:12:22Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "06 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس السادس\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف\n1:20  الشواهد العقلية على فضيلة العلم والتعلم والتعليم \n55:10 بيان العلم الذي هو فرض عين \n1:12:14 ما يجب تعلمه من الأفعال \n1:18:12 ما يجب تعلمه من التروك",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/diODGSl_9_4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/diODGSl_9_4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/diODGSl_9_4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/diODGSl_9_4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/diODGSl_9_4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "diODGSl_9_4"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "diODGSl_9_4",
+        "videoPublishedAt": "2020-06-13T11:14:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JqI7WY7RHkv2GQA1m97WtZIpWB0",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2020-06-13T13:31:55Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "07 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس السابع\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف\n 2:33 ما يجب تعلمه من الاعتقادات وأعمال القلوب \n 24:27 بيان العلم الذي هو فرض كفاية",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ricNhM6Ldks/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ricNhM6Ldks/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ricNhM6Ldks/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ricNhM6Ldks/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ricNhM6Ldks/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ricNhM6Ldks"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "ricNhM6Ldks",
+        "videoPublishedAt": "2020-06-13T13:32:16Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iAhfa5JPWeOmS6bCIJ01_hw9Lh0",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2020-06-13T13:44:02Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "08 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثامن\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9c1mYRmwTbE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9c1mYRmwTbE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9c1mYRmwTbE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9c1mYRmwTbE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9c1mYRmwTbE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9c1mYRmwTbE"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "9c1mYRmwTbE",
+        "videoPublishedAt": "2020-06-13T13:45:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cYhYRfJEFzGzJkakG-q_NXddLmQ",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2020-06-13T13:47:46Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "09 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس التاسع\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zszOv8FiT4c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zszOv8FiT4c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zszOv8FiT4c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zszOv8FiT4c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zszOv8FiT4c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zszOv8FiT4c"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "zszOv8FiT4c",
+        "videoPublishedAt": "2020-06-13T13:49:15Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3PUeH533EQeMSgIhUeipCKIheEY",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2020-06-13T13:50:58Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "10 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس العاشر\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x6KKIDbrwcY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x6KKIDbrwcY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x6KKIDbrwcY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x6KKIDbrwcY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x6KKIDbrwcY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "x6KKIDbrwcY"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "x6KKIDbrwcY",
+        "videoPublishedAt": "2020-06-13T13:52:22Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8pmv-27CTl7OhOcDI-rgRiH4NIg",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2020-06-13T13:53:15Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "11 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الحادي عشر\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ytJYXjY6yqE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ytJYXjY6yqE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ytJYXjY6yqE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ytJYXjY6yqE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ytJYXjY6yqE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ytJYXjY6yqE"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "ytJYXjY6yqE",
+        "videoPublishedAt": "2020-06-13T13:54:39Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "W1QY_Lw1uNkgzOR7sugaCMlB7Ss",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2020-06-13T13:58:48Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "12 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثانى عشر\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gr2d_L4BWAg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gr2d_L4BWAg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gr2d_L4BWAg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gr2d_L4BWAg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gr2d_L4BWAg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gr2d_L4BWAg"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "gr2d_L4BWAg",
+        "videoPublishedAt": "2020-06-13T13:59:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_w_dtsFOj1j09hT10Rfz4nY71ww",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2020-06-13T14:01:05Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "13 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثالث عشر\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/na-gA_yleYY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/na-gA_yleYY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/na-gA_yleYY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/na-gA_yleYY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/na-gA_yleYY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "na-gA_yleYY"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "na-gA_yleYY",
+        "videoPublishedAt": "2020-06-13T14:01:20Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lr-yAbi96ZckU4nL8GPTN1QFJL0",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2020-06-14T15:12:19Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "14 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الرابع عشر\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-5B8IX_xW8g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-5B8IX_xW8g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-5B8IX_xW8g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-5B8IX_xW8g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-5B8IX_xW8g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-5B8IX_xW8g"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "-5B8IX_xW8g",
+        "videoPublishedAt": "2020-06-14T16:51:58Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "82d9rgV8R7xmWRBoo0EgkZT-VI8",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2020-06-14T16:53:44Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "15 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الخامس عشر\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/en49veVaadI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/en49veVaadI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/en49veVaadI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/en49veVaadI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/en49veVaadI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "en49veVaadI"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "en49veVaadI",
+        "videoPublishedAt": "2020-06-14T16:54:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2QTCstBH_zqZUY8pslvWBZexZek",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2020-06-14T21:13:14Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "16 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس السادس عشر\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/drEKqKIo6dM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/drEKqKIo6dM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/drEKqKIo6dM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/drEKqKIo6dM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/drEKqKIo6dM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "drEKqKIo6dM"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "drEKqKIo6dM",
+        "videoPublishedAt": "2020-06-14T21:13:28Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SyEDhjuYkGlXXajUgE-JSWh2Gw0",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2020-06-14T21:14:10Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "17 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس السابع عشر\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZPzSxUJWUp0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZPzSxUJWUp0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZPzSxUJWUp0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZPzSxUJWUp0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZPzSxUJWUp0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZPzSxUJWUp0"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "ZPzSxUJWUp0",
+        "videoPublishedAt": "2020-06-14T21:14:22Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kWpJ7Qx-XWlgNrQtQocJrAQaSbQ",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2020-06-14T21:15:10Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "18 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثامن عشر\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xKct4RwA7OI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xKct4RwA7OI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xKct4RwA7OI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xKct4RwA7OI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xKct4RwA7OI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xKct4RwA7OI"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "xKct4RwA7OI",
+        "videoPublishedAt": "2020-06-14T21:15:22Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4D9pDqgP2ZRu5vUDlwjZF_p2ZlQ",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2020-06-14T21:16:05Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "19 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس التاسع عشر\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vjb1Ca_4Pgw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vjb1Ca_4Pgw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vjb1Ca_4Pgw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vjb1Ca_4Pgw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vjb1Ca_4Pgw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vjb1Ca_4Pgw"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "vjb1Ca_4Pgw",
+        "videoPublishedAt": "2020-06-14T21:16:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DqzPbqVCq_B-bQz3eESEpmZ72y4",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2020-06-14T21:17:07Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "20 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس العشرون\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DAMb5CMLtEs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DAMb5CMLtEs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DAMb5CMLtEs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DAMb5CMLtEs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DAMb5CMLtEs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DAMb5CMLtEs"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "DAMb5CMLtEs",
+        "videoPublishedAt": "2020-06-14T21:17:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FBa87K4mKkfhQ03NUKpfOp-d0rA",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2020-06-15T12:16:38Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "21 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الحادي والعشرون\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qVmWyLgV4aQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qVmWyLgV4aQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qVmWyLgV4aQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qVmWyLgV4aQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qVmWyLgV4aQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qVmWyLgV4aQ"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "qVmWyLgV4aQ",
+        "videoPublishedAt": "2020-06-15T12:17:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Kddu6dc5WJEAHXUOlI4WWmQ7S5Q",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2020-06-20T08:17:49Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "22 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثاني والعشرون\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WDqjRYlLVGs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WDqjRYlLVGs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WDqjRYlLVGs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WDqjRYlLVGs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WDqjRYlLVGs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WDqjRYlLVGs"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "WDqjRYlLVGs",
+        "videoPublishedAt": "2020-06-20T08:19:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gG1q-1eWhQjn0jRdBrzm8zHq9g4",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2020-06-20T08:20:15Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "23 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثالث والعشرون\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kUsSfUpnmb4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kUsSfUpnmb4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kUsSfUpnmb4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kUsSfUpnmb4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kUsSfUpnmb4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kUsSfUpnmb4"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "kUsSfUpnmb4",
+        "videoPublishedAt": "2020-06-20T08:20:35Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2c2cTq9_2fA5LT3A120vz4CfDxo",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2020-06-20T08:24:23Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "24 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الرابع والعشرون\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xKK9gUaTYls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xKK9gUaTYls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xKK9gUaTYls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xKK9gUaTYls/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xKK9gUaTYls/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xKK9gUaTYls"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "xKK9gUaTYls",
+        "videoPublishedAt": "2020-06-20T08:24:56Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "aHq-_RCaO6vgfrDOsVeeDapvJxU",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2020-06-20T08:25:54Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "25 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الخامس والعشرون\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ai_igp6WFP8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ai_igp6WFP8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ai_igp6WFP8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ai_igp6WFP8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ai_igp6WFP8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ai_igp6WFP8"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "Ai_igp6WFP8",
+        "videoPublishedAt": "2020-06-20T08:26:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_SucSJHKvYEjo_Ex8UqE3ti9Erw",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2020-06-20T08:26:57Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "26 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس السادس والعشرون\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LyHqrqYUXDU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LyHqrqYUXDU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LyHqrqYUXDU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LyHqrqYUXDU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LyHqrqYUXDU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LyHqrqYUXDU"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "LyHqrqYUXDU",
+        "videoPublishedAt": "2020-06-20T08:28:16Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QwZXpBL7trv6QmdVfdT8PxFkjMs",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2020-06-20T08:29:08Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "27 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس السابع والعشرون\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hFndXqoSix4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hFndXqoSix4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hFndXqoSix4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hFndXqoSix4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hFndXqoSix4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hFndXqoSix4"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "hFndXqoSix4",
+        "videoPublishedAt": "2020-06-20T08:29:26Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "f-Ptl0ubJ3t99vDpGqz_URNZfzU",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2020-06-20T08:30:20Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "28 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثامن والعشرون\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PtLfO7q7Iq0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PtLfO7q7Iq0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PtLfO7q7Iq0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PtLfO7q7Iq0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PtLfO7q7Iq0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PtLfO7q7Iq0"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "PtLfO7q7Iq0",
+        "videoPublishedAt": "2020-06-20T08:30:38Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0QqbcR-mjMno-n2SoyDmtlCS7gM",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2020-06-20T08:31:31Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "29 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس التاسع والعشرون\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PiBQpAiBgI8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PiBQpAiBgI8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PiBQpAiBgI8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PiBQpAiBgI8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PiBQpAiBgI8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PiBQpAiBgI8"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "PiBQpAiBgI8",
+        "videoPublishedAt": "2020-06-20T08:31:53Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CdARBJqgPz41R9tfwFT9trawj1c",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2020-06-20T08:33:14Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "30 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثلاثون \nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YqjbYpIicnc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YqjbYpIicnc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YqjbYpIicnc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YqjbYpIicnc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YqjbYpIicnc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YqjbYpIicnc"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "YqjbYpIicnc",
+        "videoPublishedAt": "2020-06-20T08:34:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZzfPbomU59xDy7LZRc0g7aXwr0Q",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2020-06-20T08:35:29Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "31 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الحادي والثلاثون\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0cfot_pNJkM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0cfot_pNJkM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0cfot_pNJkM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0cfot_pNJkM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0cfot_pNJkM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0cfot_pNJkM"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "0cfot_pNJkM",
+        "videoPublishedAt": "2020-06-20T08:36:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "F8FY6Kic6ssidgBNXk0-GK8V3Dw",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2020-06-20T08:37:10Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "32 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثانى والثلاثون\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-1TW5rbFRXw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-1TW5rbFRXw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-1TW5rbFRXw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-1TW5rbFRXw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-1TW5rbFRXw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-1TW5rbFRXw"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "-1TW5rbFRXw",
+        "videoPublishedAt": "2020-06-20T08:37:44Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ITDv-arKTqqXNAfYRcyhzzbJH_o",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2020-06-20T08:38:50Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "33 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثالث والثلاثون\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m88rxJ6P3U8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m88rxJ6P3U8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m88rxJ6P3U8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m88rxJ6P3U8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/m88rxJ6P3U8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "m88rxJ6P3U8"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "m88rxJ6P3U8",
+        "videoPublishedAt": "2020-06-20T08:39:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dHH0V6OaDHmACATzgLnKWs14VQU",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy45NkVENTkxRDdCQUFBMDY4",
+      "snippet": {
+        "publishedAt": "2020-06-20T08:40:27Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "34 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الرابع والثلاثون\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BTEIeJ6FFbc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BTEIeJ6FFbc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BTEIeJ6FFbc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BTEIeJ6FFbc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BTEIeJ6FFbc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BTEIeJ6FFbc"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "BTEIeJ6FFbc",
+        "videoPublishedAt": "2020-06-20T08:40:49Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DRb3eBl2ACx391ksPZEOm3YbPTE",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2020-06-20T08:55:52Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "35 كتاب العلم  من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الخامس والثلاثون\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QQrtylfuK7E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QQrtylfuK7E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QQrtylfuK7E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QQrtylfuK7E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QQrtylfuK7E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QQrtylfuK7E"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "QQrtylfuK7E",
+        "videoPublishedAt": "2020-06-20T08:56:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DUTPhYsItcHGQqQjqgguOeYHUYc",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2020-06-20T09:37:19Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "36 كتاب العلم  من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس السادس والثلاثون\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EQ7vtGuSBAY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EQ7vtGuSBAY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EQ7vtGuSBAY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EQ7vtGuSBAY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EQ7vtGuSBAY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EQ7vtGuSBAY"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "EQ7vtGuSBAY",
+        "videoPublishedAt": "2020-06-20T09:37:47Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cYnCgrvL2bNmKkoGU4VymUz6MxM",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy41MzY4MzcwOUFFRUU3QzEx",
+      "snippet": {
+        "publishedAt": "2020-06-20T09:38:56Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "37 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس السابع والثلاثون\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_AEOu7k5YBI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_AEOu7k5YBI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_AEOu7k5YBI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_AEOu7k5YBI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_AEOu7k5YBI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_AEOu7k5YBI"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "_AEOu7k5YBI",
+        "videoPublishedAt": "2020-06-20T09:39:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_j1mqnPDaSefAG5ZHolJnW569tY",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy4yQUJFNUVCMzVDNjcxRTlF",
+      "snippet": {
+        "publishedAt": "2020-06-20T11:25:12Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "38 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثامن والثلاثون\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YgTfxgd-_lo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YgTfxgd-_lo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YgTfxgd-_lo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YgTfxgd-_lo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YgTfxgd-_lo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YgTfxgd-_lo"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "YgTfxgd-_lo",
+        "videoPublishedAt": "2020-06-20T11:25:23Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bDgvv2Rb5jnq7iszA_F60li8VOI",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy4yQjZFRkExQjFGODk3RUFD",
+      "snippet": {
+        "publishedAt": "2020-06-20T11:24:06Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "39 كتاب العلم  من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس التاسع والثلاثون\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y2AQGb3MAqo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y2AQGb3MAqo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y2AQGb3MAqo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/y2AQGb3MAqo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/y2AQGb3MAqo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "y2AQGb3MAqo"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "y2AQGb3MAqo",
+        "videoPublishedAt": "2020-06-20T11:24:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0NJQfvkisXrr0Uh6C1_3hykXWC8",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy41RTNBREYwMkI5QzU3RkY2",
+      "snippet": {
+        "publishedAt": "2020-06-20T11:26:27Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "40 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الأربعون\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5Ffaw9Ots6Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5Ffaw9Ots6Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5Ffaw9Ots6Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5Ffaw9Ots6Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5Ffaw9Ots6Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5Ffaw9Ots6Q"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "5Ffaw9Ots6Q",
+        "videoPublishedAt": "2020-06-20T11:26:26Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RbZHCKO3mevpWI2OYFn8kGTtax0",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy44QzVGQUU2QjE2NDgxM0M4",
+      "snippet": {
+        "publishedAt": "2020-06-20T11:27:28Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "41 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الحادي والأربعون\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0QUqFNwmXlM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0QUqFNwmXlM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0QUqFNwmXlM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0QUqFNwmXlM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0QUqFNwmXlM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0QUqFNwmXlM"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "0QUqFNwmXlM",
+        "videoPublishedAt": "2020-06-20T11:27:27Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UDhPWPY6iVIbXIsBwD7tW0eKrbM",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy4xMzgwMzBERjQ4NjEzNUE5",
+      "snippet": {
+        "publishedAt": "2020-06-20T11:28:13Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "42 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثانى والأربعون\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_JC9gXBngMg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_JC9gXBngMg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_JC9gXBngMg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_JC9gXBngMg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_JC9gXBngMg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_JC9gXBngMg"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "_JC9gXBngMg",
+        "videoPublishedAt": "2020-06-20T11:28:29Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VI6hVwulQ8KLPsDKDeg-LQKPUCM",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy4zMEQ1MEIyRTFGNzhDQzFB",
+      "snippet": {
+        "publishedAt": "2020-06-20T11:29:22Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "43 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثالث والأربعون\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UI5VnUNE1Pw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UI5VnUNE1Pw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UI5VnUNE1Pw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UI5VnUNE1Pw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UI5VnUNE1Pw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UI5VnUNE1Pw"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "UI5VnUNE1Pw",
+        "videoPublishedAt": "2020-06-20T11:29:43Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tjmGNsBatZfU78yMepuwULZqRQw",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy42Qzk5MkEzQjVFQjYwRDA4",
+      "snippet": {
+        "publishedAt": "2020-06-20T11:30:38Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "44 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الرابع والأربعون\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oy2uTk0Pu30/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oy2uTk0Pu30/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oy2uTk0Pu30/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oy2uTk0Pu30/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oy2uTk0Pu30/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oy2uTk0Pu30"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "oy2uTk0Pu30",
+        "videoPublishedAt": "2020-06-20T11:30:58Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oEoI4g7hh-Q4eM_1zHn6Cepxew0",
+      "id": "UExzTV9SeHFJdlJ0cDVsOS1PMzZEYUsyMG5IcU5zUUVGcy41NTZEOThBNThFOUVGQkVB",
+      "snippet": {
+        "publishedAt": "2020-06-20T11:45:41Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "45 كتاب العلم من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الخامس والأربعون\nفى شرح كتاب العلم من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OT8FcK0SzIc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OT8FcK0SzIc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OT8FcK0SzIc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OT8FcK0SzIc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OT8FcK0SzIc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp5l9-O36DaK20nHqNsQEFs",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OT8FcK0SzIc"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "OT8FcK0SzIc",
+        "videoPublishedAt": "2020-06-20T11:49:08Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 45,
+    "resultsPerPage": 50
+  }
+}

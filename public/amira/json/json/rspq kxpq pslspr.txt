@@ -1,0 +1,1312 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "1tP6bqShQHkQP4voEKFRcm9mK44",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "b4HiR78DDqVKa7ikiEl_x1is6d0",
+      "id": "UExzTV9SeHFJdlJ0cTE5THItMnZxblg4aDNkUDhqeGxfUi41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2021-09-03T21:10:24Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "01 كتاب آداب الألفة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الأول\nفى شرح كتاب آداب الألفة والأخوة والصحبة والمعاشرة مع أصناف الخلق من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E7imRjhJ97g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E7imRjhJ97g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E7imRjhJ97g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E7imRjhJ97g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/E7imRjhJ97g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq19Lr-2vqnX8h3dP8jxl_R",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "E7imRjhJ97g"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "E7imRjhJ97g",
+        "videoPublishedAt": "2020-08-29T08:56:28Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TxYyqo6Kyig_sDynfZJPjqvXzU8",
+      "id": "UExzTV9SeHFJdlJ0cTE5THItMnZxblg4aDNkUDhqeGxfUi4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2021-09-03T21:11:00Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "02 كتاب آداب الألفة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثاني \nفى شرح كتاب آداب الألفة والأخوة والصحبة والمعاشرة مع أصناف الخلق من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qZJ9ksHcAzA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qZJ9ksHcAzA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qZJ9ksHcAzA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qZJ9ksHcAzA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qZJ9ksHcAzA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq19Lr-2vqnX8h3dP8jxl_R",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qZJ9ksHcAzA"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "qZJ9ksHcAzA",
+        "videoPublishedAt": "2020-08-29T08:56:45Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Y0hmZPGhEqX2eXMzohbszrnQjk4",
+      "id": "UExzTV9SeHFJdlJ0cTE5THItMnZxblg4aDNkUDhqeGxfUi4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2021-09-03T21:11:46Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "03 كتاب آداب الألفة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثالث \nفى شرح كتاب آداب الألفة والأخوة والصحبة والمعاشرة مع أصناف الخلق من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n1NnDnB_P8A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n1NnDnB_P8A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n1NnDnB_P8A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n1NnDnB_P8A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n1NnDnB_P8A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq19Lr-2vqnX8h3dP8jxl_R",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "n1NnDnB_P8A"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "n1NnDnB_P8A",
+        "videoPublishedAt": "2020-08-29T08:57:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6DFsxfRunW76-eJILOtYeAEBUTA",
+      "id": "UExzTV9SeHFJdlJ0cTE5THItMnZxblg4aDNkUDhqeGxfUi41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2021-09-03T21:12:18Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "04 كتاب آداب الألفة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الرابع\nفى شرح كتاب آداب الألفة والأخوة والصحبة والمعاشرة مع أصناف الخلق من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6k_hXIGqsrs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6k_hXIGqsrs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6k_hXIGqsrs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6k_hXIGqsrs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6k_hXIGqsrs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq19Lr-2vqnX8h3dP8jxl_R",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6k_hXIGqsrs"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "6k_hXIGqsrs",
+        "videoPublishedAt": "2020-08-29T08:57:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wf_MQ4ngYvvEoyZb_oJ7d0YxUyE",
+      "id": "UExzTV9SeHFJdlJ0cTE5THItMnZxblg4aDNkUDhqeGxfUi4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2021-09-03T21:13:27Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "05 كتاب آداب الألفة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الخامس\nفى شرح كتاب آداب الألفة والأخوة والصحبة والمعاشرة مع أصناف الخلق من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o-woqINc1aY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o-woqINc1aY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o-woqINc1aY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o-woqINc1aY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o-woqINc1aY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq19Lr-2vqnX8h3dP8jxl_R",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "o-woqINc1aY"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "o-woqINc1aY",
+        "videoPublishedAt": "2020-11-30T04:58:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9X8lZKhi3LAPXRSMM2Zmf0_LANk",
+      "id": "UExzTV9SeHFJdlJ0cTE5THItMnZxblg4aDNkUDhqeGxfUi4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2021-09-03T21:14:12Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "06 كتاب آداب الألفة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس السادس \nفى شرح كتاب آداب الألفة والأخوة والصحبة والمعاشرة مع أصناف الخلق من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a0sZyiZV5n8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a0sZyiZV5n8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a0sZyiZV5n8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a0sZyiZV5n8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a0sZyiZV5n8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq19Lr-2vqnX8h3dP8jxl_R",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "a0sZyiZV5n8"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "a0sZyiZV5n8",
+        "videoPublishedAt": "2020-11-30T04:58:21Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Uugn4HJ1r2lJ9xw3vKoIJOfcikI",
+      "id": "UExzTV9SeHFJdlJ0cTE5THItMnZxblg4aDNkUDhqeGxfUi41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2021-09-03T21:20:53Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "07 كتاب آداب الألفة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس السابع\nفى شرح كتاب آداب الألفة والأخوة والصحبة والمعاشرة مع أصناف الخلق من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ryWEmziS7Fs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ryWEmziS7Fs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ryWEmziS7Fs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ryWEmziS7Fs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ryWEmziS7Fs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq19Lr-2vqnX8h3dP8jxl_R",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ryWEmziS7Fs"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "ryWEmziS7Fs",
+        "videoPublishedAt": "2020-11-30T04:58:56Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2i2-Tdxx-LV2mo65Zq0HxQKHhIA",
+      "id": "UExzTV9SeHFJdlJ0cTE5THItMnZxblg4aDNkUDhqeGxfUi5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2021-09-03T21:21:48Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "08 كتاب آداب الألفة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثامن\nفى شرح كتاب آداب الألفة والأخوة والصحبة والمعاشرة مع أصناف الخلق من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G3qrMqyQfoU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G3qrMqyQfoU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G3qrMqyQfoU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/G3qrMqyQfoU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/G3qrMqyQfoU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq19Lr-2vqnX8h3dP8jxl_R",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "G3qrMqyQfoU"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "G3qrMqyQfoU",
+        "videoPublishedAt": "2020-11-30T04:59:15Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zrxtxrTTUqhoouukCiHCF8fkkrQ",
+      "id": "UExzTV9SeHFJdlJ0cTE5THItMnZxblg4aDNkUDhqeGxfUi45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2021-09-03T21:22:46Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "09 كتاب آداب الألفة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس التاسع\nفى شرح كتاب آداب الألفة والأخوة والصحبة والمعاشرة مع أصناف الخلق من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ch1JOf25ifk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ch1JOf25ifk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ch1JOf25ifk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ch1JOf25ifk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ch1JOf25ifk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq19Lr-2vqnX8h3dP8jxl_R",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ch1JOf25ifk"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "ch1JOf25ifk",
+        "videoPublishedAt": "2020-11-30T04:59:42Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gSDpEHVTOOnCTVXaicqmHrOfhbA",
+      "id": "UExzTV9SeHFJdlJ0cTE5THItMnZxblg4aDNkUDhqeGxfUi5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2021-09-03T21:23:24Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "10 كتاب آداب الألفة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس العاشر\nفى شرح كتاب آداب الألفة والأخوة والصحبة والمعاشرة مع أصناف الخلق من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BnKsV4J_95o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BnKsV4J_95o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BnKsV4J_95o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BnKsV4J_95o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq19Lr-2vqnX8h3dP8jxl_R",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BnKsV4J_95o"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "BnKsV4J_95o",
+        "videoPublishedAt": "2021-09-03T21:25:53Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6FqvQ6OFM8NktwkRSSqxxUdU_Io",
+      "id": "UExzTV9SeHFJdlJ0cTE5THItMnZxblg4aDNkUDhqeGxfUi40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2021-09-03T21:24:01Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "11 كتاب آداب الألفة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الحادي عشر\nفى شرح كتاب آداب الألفة والأخوة والصحبة والمعاشرة مع أصناف الخلق من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9rt_HYkjit4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9rt_HYkjit4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9rt_HYkjit4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq19Lr-2vqnX8h3dP8jxl_R",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9rt_HYkjit4"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "9rt_HYkjit4",
+        "videoPublishedAt": "2021-09-03T21:25:57Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ndx4zUW-iET6mXscKYRXH99EPDU",
+      "id": "UExzTV9SeHFJdlJ0cTE5THItMnZxblg4aDNkUDhqeGxfUi5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2021-09-03T21:25:20Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "12 كتاب آداب الألفة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثاني عشر\nفى شرح كتاب آداب الألفة والأخوة والصحبة والمعاشرة مع أصناف الخلق من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JDq7Sr6E1H0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JDq7Sr6E1H0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JDq7Sr6E1H0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JDq7Sr6E1H0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq19Lr-2vqnX8h3dP8jxl_R",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JDq7Sr6E1H0"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "JDq7Sr6E1H0",
+        "videoPublishedAt": "2021-09-03T21:25:31Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HFm0GweAlHBF-fbRAXKTaU4t_Xw",
+      "id": "UExzTV9SeHFJdlJ0cTE5THItMnZxblg4aDNkUDhqeGxfUi45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2021-09-03T21:26:32Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "13 كتاب آداب الألفة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثالث عشر\nفى شرح كتاب آداب الألفة والأخوة والصحبة والمعاشرة مع أصناف الخلق من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GmDGBbga9PI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GmDGBbga9PI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GmDGBbga9PI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GmDGBbga9PI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq19Lr-2vqnX8h3dP8jxl_R",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GmDGBbga9PI"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "GmDGBbga9PI",
+        "videoPublishedAt": "2021-09-03T21:26:33Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zRCWY6mCr00x2PU-DmQ7R5MN_pQ",
+      "id": "UExzTV9SeHFJdlJ0cTE5THItMnZxblg4aDNkUDhqeGxfUi4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2021-09-03T21:27:24Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "14 كتاب آداب الألفة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الرابع عشر\nفى شرح كتاب آداب الألفة والأخوة والصحبة والمعاشرة مع أصناف الخلق من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eq5DIjvdQaw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eq5DIjvdQaw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eq5DIjvdQaw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eq5DIjvdQaw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq19Lr-2vqnX8h3dP8jxl_R",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eq5DIjvdQaw"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "eq5DIjvdQaw",
+        "videoPublishedAt": "2021-09-03T21:27:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qn0dBo6WP1tmsdDbmDm6rAMR6_E",
+      "id": "UExzTV9SeHFJdlJ0cTE5THItMnZxblg4aDNkUDhqeGxfUi41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2021-09-03T21:28:15Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "15 كتاب آداب الألفة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الخامس عشر\nفى شرح كتاب آداب الألفة والأخوة والصحبة والمعاشرة مع أصناف الخلق من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y22QT9XnWnQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y22QT9XnWnQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y22QT9XnWnQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y22QT9XnWnQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq19Lr-2vqnX8h3dP8jxl_R",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Y22QT9XnWnQ"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "Y22QT9XnWnQ",
+        "videoPublishedAt": "2021-08-28T17:03:47Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "a2ru2901JC9uXPNihMFgVqBM3Qs",
+      "id": "UExzTV9SeHFJdlJ0cTE5THItMnZxblg4aDNkUDhqeGxfUi5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2021-09-03T21:29:07Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "16 كتاب آداب الألفة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس السادس عشر\nفى شرح كتاب آداب الألفة والأخوة والصحبة والمعاشرة مع أصناف الخلق من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ejLyVsj32B8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ejLyVsj32B8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ejLyVsj32B8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ejLyVsj32B8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq19Lr-2vqnX8h3dP8jxl_R",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ejLyVsj32B8"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "ejLyVsj32B8",
+        "videoPublishedAt": "2021-09-03T21:29:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cAr3v7qN90goOUA8SrG0JWx0lO0",
+      "id": "UExzTV9SeHFJdlJ0cTE5THItMnZxblg4aDNkUDhqeGxfUi41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2021-09-03T21:29:54Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "17 كتاب آداب الألفة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس السابع عشر\nفى شرح كتاب آداب الألفة والأخوة والصحبة والمعاشرة مع أصناف الخلق من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rrdA-0sAjyE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rrdA-0sAjyE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rrdA-0sAjyE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rrdA-0sAjyE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq19Lr-2vqnX8h3dP8jxl_R",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rrdA-0sAjyE"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "rrdA-0sAjyE",
+        "videoPublishedAt": "2021-09-03T21:29:55Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KWBSnogb2XWwtz6T0w1Xl_4hNgc",
+      "id": "UExzTV9SeHFJdlJ0cTE5THItMnZxblg4aDNkUDhqeGxfUi4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2021-09-03T21:30:31Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "18 كتاب آداب الألفة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثامن عشر\nفى شرح كتاب آداب الألفة والأخوة والصحبة والمعاشرة مع أصناف الخلق من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_6CQ86iFSyw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_6CQ86iFSyw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_6CQ86iFSyw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_6CQ86iFSyw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq19Lr-2vqnX8h3dP8jxl_R",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_6CQ86iFSyw"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "_6CQ86iFSyw",
+        "videoPublishedAt": "2021-09-03T21:30:32Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qmXsyy0lUiKm80oHdYvYhOJHCIw",
+      "id": "UExzTV9SeHFJdlJ0cTE5THItMnZxblg4aDNkUDhqeGxfUi45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2021-09-03T21:31:09Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "19 كتاب آداب الألفة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس التاسع عشر\nفى شرح كتاب آداب الألفة والأخوة والصحبة والمعاشرة مع أصناف الخلق من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3bU3_rYftUk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3bU3_rYftUk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3bU3_rYftUk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3bU3_rYftUk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq19Lr-2vqnX8h3dP8jxl_R",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3bU3_rYftUk"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "3bU3_rYftUk",
+        "videoPublishedAt": "2021-09-03T21:31:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7_p6aScpUNEo01pAvQU_ysuEpeA",
+      "id": "UExzTV9SeHFJdlJ0cTE5THItMnZxblg4aDNkUDhqeGxfUi5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2021-09-03T21:32:00Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "20 كتاب آداب الألفة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس العشرون\nفى شرح كتاب آداب الألفة والأخوة والصحبة والمعاشرة مع أصناف الخلق من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AaGZisse91M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AaGZisse91M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AaGZisse91M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AaGZisse91M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq19Lr-2vqnX8h3dP8jxl_R",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AaGZisse91M"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "AaGZisse91M",
+        "videoPublishedAt": "2021-09-03T21:32:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "arOQyN1W3JbEhUbr16JXiB8yzRA",
+      "id": "UExzTV9SeHFJdlJ0cTE5THItMnZxblg4aDNkUDhqeGxfUi4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2021-09-03T21:32:42Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "21 كتاب آداب الألفة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الحادي والعشرون\nفى شرح كتاب آداب الألفة والأخوة والصحبة والمعاشرة مع أصناف الخلق من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/loE197HBsiM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/loE197HBsiM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/loE197HBsiM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/loE197HBsiM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq19Lr-2vqnX8h3dP8jxl_R",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "loE197HBsiM"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "loE197HBsiM",
+        "videoPublishedAt": "2021-09-03T21:32:43Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rqCBTvnuzdjHJMbJ6RDcqHjbsso",
+      "id": "UExzTV9SeHFJdlJ0cTE5THItMnZxblg4aDNkUDhqeGxfUi5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2021-09-03T21:33:20Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "22 كتاب آداب الألفة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثاني والعشرون\nفى شرح كتاب آداب الألفة والأخوة والصحبة والمعاشرة مع أصناف الخلق من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wBRojlpPPMc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wBRojlpPPMc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wBRojlpPPMc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wBRojlpPPMc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq19Lr-2vqnX8h3dP8jxl_R",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wBRojlpPPMc"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "wBRojlpPPMc",
+        "videoPublishedAt": "2021-09-03T21:33:21Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yGu60i07ve5q-OZQca5_Vf15OqM",
+      "id": "UExzTV9SeHFJdlJ0cTE5THItMnZxblg4aDNkUDhqeGxfUi4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2021-09-03T21:34:37Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "23 كتاب آداب الألفة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثالث والعشرون\nفى شرح كتاب آداب الألفة والأخوة والصحبة والمعاشرة مع أصناف الخلق من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IAqdzmJh6CQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IAqdzmJh6CQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IAqdzmJh6CQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IAqdzmJh6CQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IAqdzmJh6CQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq19Lr-2vqnX8h3dP8jxl_R",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IAqdzmJh6CQ"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "IAqdzmJh6CQ",
+        "videoPublishedAt": "2021-09-03T21:34:38Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Gr3FgdaUPrRdoQL9AXqqkAMa6hc",
+      "id": "UExzTV9SeHFJdlJ0cTE5THItMnZxblg4aDNkUDhqeGxfUi45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2021-09-03T21:35:23Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "24 كتاب آداب الألفة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الرابع والعشرون\nفى شرح كتاب آداب الألفة والأخوة والصحبة والمعاشرة مع أصناف الخلق من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DZY5xjU7TCU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DZY5xjU7TCU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DZY5xjU7TCU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DZY5xjU7TCU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DZY5xjU7TCU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq19Lr-2vqnX8h3dP8jxl_R",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DZY5xjU7TCU"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "DZY5xjU7TCU",
+        "videoPublishedAt": "2021-09-03T21:35:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "en8IRGKz8uu2rrPW8sQ554xWLes",
+      "id": "UExzTV9SeHFJdlJ0cTE5THItMnZxblg4aDNkUDhqeGxfUi5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2021-09-03T21:36:28Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "25 كتاب آداب الألفة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الخامس والعشرون\nفى شرح كتاب آداب الألفة والأخوة والصحبة والمعاشرة مع أصناف الخلق من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R8J56AT47ag/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R8J56AT47ag/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R8J56AT47ag/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/R8J56AT47ag/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/R8J56AT47ag/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq19Lr-2vqnX8h3dP8jxl_R",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "R8J56AT47ag"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "R8J56AT47ag",
+        "videoPublishedAt": "2021-09-03T21:36:29Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OOnGMdYbgDDe6BQCpSbhhPxfhio",
+      "id": "UExzTV9SeHFJdlJ0cTE5THItMnZxblg4aDNkUDhqeGxfUi43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2021-09-03T21:37:17Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "26 كتاب آداب الألفة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس السادس والعشرون\nفى شرح كتاب آداب الألفة والأخوة والصحبة والمعاشرة مع أصناف الخلق من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_OeBu63hmOs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_OeBu63hmOs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_OeBu63hmOs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_OeBu63hmOs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq19Lr-2vqnX8h3dP8jxl_R",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_OeBu63hmOs"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "_OeBu63hmOs",
+        "videoPublishedAt": "2021-09-03T21:37:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8hk46YJ6FVklJdmB7wmmLu5GEqw",
+      "id": "UExzTV9SeHFJdlJ0cTE5THItMnZxblg4aDNkUDhqeGxfUi5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2021-09-03T21:37:55Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "27 كتاب آداب الألفة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس السابع والعشرون\nفى شرح كتاب آداب الألفة والأخوة والصحبة والمعاشرة مع أصناف الخلق من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yeNkbYC1cQw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yeNkbYC1cQw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yeNkbYC1cQw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yeNkbYC1cQw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yeNkbYC1cQw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq19Lr-2vqnX8h3dP8jxl_R",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yeNkbYC1cQw"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "yeNkbYC1cQw",
+        "videoPublishedAt": "2021-09-03T21:37:56Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 27,
+    "resultsPerPage": 50
+  }
+}

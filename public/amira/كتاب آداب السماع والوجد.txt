@@ -1,0 +1,792 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "3cxm3_DnV7gJjBAz14z0SwxgHUo",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EJtwJlsWWaX8a12kO4onxQzhSZM",
+      "id": "UExzTV9SeHFJdlJ0b19fQml2SUU5c0phWVZEQlZ5ZVpLeS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2021-09-04T15:53:15Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "01 كتاب آداب السماع والوجد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الأول\nفى شرح كتاب  آداب السماع والوجد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XdoAdH2x7K0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XdoAdH2x7K0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XdoAdH2x7K0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XdoAdH2x7K0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRto__BivIE9sJaYVDBVyeZKy",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XdoAdH2x7K0"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "XdoAdH2x7K0",
+        "videoPublishedAt": "2021-09-04T15:53:21Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OoKIasi_cCTcXKzoqAwINPI1eZo",
+      "id": "UExzTV9SeHFJdlJ0b19fQml2SUU5c0phWVZEQlZ5ZVpLeS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2021-09-04T15:54:01Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "02 كتاب آداب السماع والوجد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثاني\nفى شرح كتاب  آداب السماع والوجد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lS8sXA3538w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lS8sXA3538w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lS8sXA3538w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRto__BivIE9sJaYVDBVyeZKy",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lS8sXA3538w"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "lS8sXA3538w",
+        "videoPublishedAt": "2021-09-04T15:54:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qWbKdgKhL3XaCz6Cx4Qs4tBlMGw",
+      "id": "UExzTV9SeHFJdlJ0b19fQml2SUU5c0phWVZEQlZ5ZVpLeS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2021-09-04T15:54:35Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "03 كتاب آداب السماع والوجد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثالث\nفى شرح كتاب  آداب السماع والوجد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dKWBPIDuuFc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dKWBPIDuuFc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dKWBPIDuuFc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dKWBPIDuuFc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRto__BivIE9sJaYVDBVyeZKy",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dKWBPIDuuFc"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "dKWBPIDuuFc",
+        "videoPublishedAt": "2021-09-04T15:54:38Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VbunstvhgM-tLDswsVaWBK4ji4k",
+      "id": "UExzTV9SeHFJdlJ0b19fQml2SUU5c0phWVZEQlZ5ZVpLeS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2021-09-09T16:49:06Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "04 كتاب آداب السماع والوجد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الرابع\nفى شرح كتاب  آداب السماع والوجد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3OJr28Jms4E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3OJr28Jms4E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3OJr28Jms4E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRto__BivIE9sJaYVDBVyeZKy",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3OJr28Jms4E"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "3OJr28Jms4E",
+        "videoPublishedAt": "2021-09-09T16:49:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nbcRIolQ0-66t6TGlCE3CekYKT8",
+      "id": "UExzTV9SeHFJdlJ0b19fQml2SUU5c0phWVZEQlZ5ZVpLeS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2021-09-09T16:49:57Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "05 كتاب آداب السماع والوجد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الخامس\nفى شرح كتاب  آداب السماع والوجد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KYqYVryRRIc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KYqYVryRRIc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KYqYVryRRIc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KYqYVryRRIc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRto__BivIE9sJaYVDBVyeZKy",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KYqYVryRRIc"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "KYqYVryRRIc",
+        "videoPublishedAt": "2021-09-09T16:49:58Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "007HSbmzX0KiOd4WzWkJp3tCIhE",
+      "id": "UExzTV9SeHFJdlJ0b19fQml2SUU5c0phWVZEQlZ5ZVpLeS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2021-09-09T16:52:06Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "06 كتاب آداب السماع والوجد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس السادس\nفى شرح كتاب  آداب السماع والوجد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2a_cgTc0ORw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2a_cgTc0ORw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2a_cgTc0ORw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2a_cgTc0ORw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRto__BivIE9sJaYVDBVyeZKy",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2a_cgTc0ORw"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "2a_cgTc0ORw",
+        "videoPublishedAt": "2021-09-09T16:52:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "As_fxiq3QKa76Hop0-nFN0pUlOQ",
+      "id": "UExzTV9SeHFJdlJ0b19fQml2SUU5c0phWVZEQlZ5ZVpLeS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2021-09-09T16:53:02Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "07 كتاب آداب السماع والوجد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس السابع\nفى شرح كتاب  آداب السماع والوجد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f1q56gnMfLY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f1q56gnMfLY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f1q56gnMfLY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRto__BivIE9sJaYVDBVyeZKy",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "f1q56gnMfLY"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "f1q56gnMfLY",
+        "videoPublishedAt": "2021-09-09T16:53:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OmSDLiF9Ut7hYw6yL79cZR63Z0k",
+      "id": "UExzTV9SeHFJdlJ0b19fQml2SUU5c0phWVZEQlZ5ZVpLeS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2021-09-09T16:54:25Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "08 كتاب آداب السماع والوجد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثامن\nفى شرح كتاب  آداب السماع والوجد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E82LDRnVJ9c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E82LDRnVJ9c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E82LDRnVJ9c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E82LDRnVJ9c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRto__BivIE9sJaYVDBVyeZKy",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "E82LDRnVJ9c"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "E82LDRnVJ9c",
+        "videoPublishedAt": "2021-09-09T16:54:27Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "54Gy0muNmZoblEuVwvhI7AkZdGQ",
+      "id": "UExzTV9SeHFJdlJ0b19fQml2SUU5c0phWVZEQlZ5ZVpLeS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2021-09-09T16:55:15Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "09 كتاب آداب السماع والوجد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس التاسع\nفى شرح كتاب  آداب السماع والوجد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L7itxVEZ9Hk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L7itxVEZ9Hk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L7itxVEZ9Hk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/L7itxVEZ9Hk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRto__BivIE9sJaYVDBVyeZKy",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "L7itxVEZ9Hk"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "L7itxVEZ9Hk",
+        "videoPublishedAt": "2021-09-09T16:55:15Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OlkyK-l9Xs7UbZzo21nVd4WnKnM",
+      "id": "UExzTV9SeHFJdlJ0b19fQml2SUU5c0phWVZEQlZ5ZVpLeS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2021-09-09T16:56:02Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "10 كتاب آداب السماع والوجد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس العاشر\nفى شرح كتاب  آداب السماع والوجد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vV9fCLWGG24/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vV9fCLWGG24/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vV9fCLWGG24/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vV9fCLWGG24/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRto__BivIE9sJaYVDBVyeZKy",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vV9fCLWGG24"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "vV9fCLWGG24",
+        "videoPublishedAt": "2021-09-09T16:56:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KvDcEDD2kc73N5OaxfC-xIbGVsY",
+      "id": "UExzTV9SeHFJdlJ0b19fQml2SUU5c0phWVZEQlZ5ZVpLeS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2021-09-09T16:56:42Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "11 كتاب آداب السماع والوجد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الحادي عشر\nفى شرح كتاب  آداب السماع والوجد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vg0NrAuLtpM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vg0NrAuLtpM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vg0NrAuLtpM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vg0NrAuLtpM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vg0NrAuLtpM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRto__BivIE9sJaYVDBVyeZKy",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vg0NrAuLtpM"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "vg0NrAuLtpM",
+        "videoPublishedAt": "2021-09-09T16:56:43Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HeoxF6ls4-3Bd_xNMv_JsC2zHqI",
+      "id": "UExzTV9SeHFJdlJ0b19fQml2SUU5c0phWVZEQlZ5ZVpLeS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2021-09-09T16:57:29Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "12 كتاب آداب السماع والوجد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثاني عشر\nفى شرح كتاب  آداب السماع والوجد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J0v2BhIMb9M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J0v2BhIMb9M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J0v2BhIMb9M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J0v2BhIMb9M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRto__BivIE9sJaYVDBVyeZKy",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "J0v2BhIMb9M"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "J0v2BhIMb9M",
+        "videoPublishedAt": "2021-09-09T16:57:30Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MsCCjMU-YzmbVL-zOKbZspI01Q8",
+      "id": "UExzTV9SeHFJdlJ0b19fQml2SUU5c0phWVZEQlZ5ZVpLeS45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2021-09-10T07:41:36Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "13 كتاب آداب السماع والوجد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثالث عشر\nفى شرح كتاب  آداب السماع والوجد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Udh57RZ1MSY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Udh57RZ1MSY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Udh57RZ1MSY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Udh57RZ1MSY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Udh57RZ1MSY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRto__BivIE9sJaYVDBVyeZKy",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Udh57RZ1MSY"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "Udh57RZ1MSY",
+        "videoPublishedAt": "2021-09-10T07:41:48Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VaTUhHvp7GKA219ZunddmQVjZcU",
+      "id": "UExzTV9SeHFJdlJ0b19fQml2SUU5c0phWVZEQlZ5ZVpLeS4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2021-09-10T07:42:42Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "14 كتاب آداب السماع والوجد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الرابع عشر\nفى شرح كتاب  آداب السماع والوجد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JW_HbDn736U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JW_HbDn736U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JW_HbDn736U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JW_HbDn736U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRto__BivIE9sJaYVDBVyeZKy",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JW_HbDn736U"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "JW_HbDn736U",
+        "videoPublishedAt": "2021-09-10T07:42:42Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7LTM_okqhOnB9xaV6rQrV2GvPfU",
+      "id": "UExzTV9SeHFJdlJ0b19fQml2SUU5c0phWVZEQlZ5ZVpLeS41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2021-09-11T09:09:53Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "15 كتاب آداب السماع والوجد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الخامس عشر\nفى شرح كتاب  آداب السماع والوجد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ)\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NkowlbZR0gE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NkowlbZR0gE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NkowlbZR0gE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NkowlbZR0gE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRto__BivIE9sJaYVDBVyeZKy",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NkowlbZR0gE"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "NkowlbZR0gE",
+        "videoPublishedAt": "2021-09-11T09:09:54Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_JAFRFDpuXafm7RcD5AXpfU2vj8",
+      "id": "UExzTV9SeHFJdlJ0b19fQml2SUU5c0phWVZEQlZ5ZVpLeS5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2021-09-11T09:11:19Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "16 كتاب آداب السماع والوجد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس السادس عشر\nفى شرح كتاب  آداب السماع والوجد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ)\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SzRBvLGb31w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SzRBvLGb31w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SzRBvLGb31w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SzRBvLGb31w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRto__BivIE9sJaYVDBVyeZKy",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SzRBvLGb31w"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "SzRBvLGb31w",
+        "videoPublishedAt": "2021-09-11T09:11:20Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wrD9SPy9OlTvS9W2tZfLSFs1tlA",
+      "id": "UExzTV9SeHFJdlJ0b19fQml2SUU5c0phWVZEQlZ5ZVpLeS41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2021-09-11T09:12:08Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "17 كتاب آداب السماع والوجد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس السابع عشر\nفى شرح كتاب  آداب السماع والوجد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ)\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_fiC5A7ssKs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_fiC5A7ssKs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_fiC5A7ssKs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_fiC5A7ssKs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_fiC5A7ssKs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRto__BivIE9sJaYVDBVyeZKy",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_fiC5A7ssKs"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "_fiC5A7ssKs",
+        "videoPublishedAt": "2021-09-11T09:12:09Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 17,
+    "resultsPerPage": 50
+  }
+}

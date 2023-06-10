@@ -1,0 +1,2093 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "8aYFMA8QaDuiPFl-Q27ul-D07kY",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pddPxouw7YGbdzCnLpCPMW70mdI",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2021-07-12T21:36:07Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "01 قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الأول\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aKqAeyF5uS0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aKqAeyF5uS0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aKqAeyF5uS0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aKqAeyF5uS0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aKqAeyF5uS0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aKqAeyF5uS0"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "aKqAeyF5uS0",
+        "videoPublishedAt": "2021-07-12T21:36:16Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "U47rOuYl_cqlLbqvQGNFiCmTM9Q",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2021-08-08T16:28:16Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "02 قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثاني\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oVzqnFJ8KUQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oVzqnFJ8KUQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oVzqnFJ8KUQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oVzqnFJ8KUQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oVzqnFJ8KUQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oVzqnFJ8KUQ"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "oVzqnFJ8KUQ",
+        "videoPublishedAt": "2021-08-08T16:29:19Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1AuQ4QRIygnYwgT-4V_VtfIbfsQ",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2021-08-08T16:29:58Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "03 قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثالث\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZlYEcH2XJqU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZlYEcH2XJqU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZlYEcH2XJqU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZlYEcH2XJqU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZlYEcH2XJqU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZlYEcH2XJqU"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "ZlYEcH2XJqU",
+        "videoPublishedAt": "2021-08-08T16:30:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rrNxHNieXekeBFRUB7ZLwGUbYUg",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2021-08-08T16:30:39Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "04 قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الرابع\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3AaGIkHPYsI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3AaGIkHPYsI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3AaGIkHPYsI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3AaGIkHPYsI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3AaGIkHPYsI"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "3AaGIkHPYsI",
+        "videoPublishedAt": "2021-08-08T16:30:47Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "F0ozapDgyikvFJa1sgYff1b0Ayc",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2021-08-08T16:32:54Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "05 قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الخامس\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XeWd2-jPEXI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XeWd2-jPEXI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XeWd2-jPEXI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XeWd2-jPEXI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XeWd2-jPEXI"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "XeWd2-jPEXI",
+        "videoPublishedAt": "2021-08-08T16:32:59Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cF6-oSCJro6FTuLgheGGr_ih53Q",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2021-08-08T16:33:45Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "06 قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس السادس\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oa7J0AYq8iM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oa7J0AYq8iM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oa7J0AYq8iM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oa7J0AYq8iM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oa7J0AYq8iM"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "oa7J0AYq8iM",
+        "videoPublishedAt": "2021-08-08T16:33:49Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "36NISgpFAYHMAob6y1pvt6yZZbs",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2021-08-08T16:34:25Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "07 قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس السابع\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4GOaw8pPBOk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4GOaw8pPBOk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4GOaw8pPBOk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4GOaw8pPBOk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4GOaw8pPBOk"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "4GOaw8pPBOk",
+        "videoPublishedAt": "2021-08-08T16:34:28Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HMEZ8C7x2sW34gNcxsmIPJDsPEw",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2021-08-08T16:35:07Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "08 قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثامن\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AkL7wD-Afq8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AkL7wD-Afq8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AkL7wD-Afq8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AkL7wD-Afq8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AkL7wD-Afq8"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "AkL7wD-Afq8",
+        "videoPublishedAt": "2021-08-08T16:35:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_NmtCn608y5Zmy4yR9LzCo-d7gU",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2021-08-08T16:35:42Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "09 قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس التاسع \nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c5co8bg_DZY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c5co8bg_DZY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c5co8bg_DZY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/c5co8bg_DZY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/c5co8bg_DZY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "c5co8bg_DZY"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "c5co8bg_DZY",
+        "videoPublishedAt": "2021-08-08T16:35:46Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1AhUPgvNSRdILBbiXHgFjXhZ5_k",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2021-08-08T16:36:22Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "10 قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس العاشر\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mKPvNkMmqzU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mKPvNkMmqzU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mKPvNkMmqzU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mKPvNkMmqzU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mKPvNkMmqzU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mKPvNkMmqzU"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "mKPvNkMmqzU",
+        "videoPublishedAt": "2021-08-08T16:36:26Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zJmSh9orYgMGnnVx4YtIFtDMGEA",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2021-08-08T16:37:10Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "11 قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الحادي عشر\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gxrSspC12Vw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gxrSspC12Vw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gxrSspC12Vw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gxrSspC12Vw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gxrSspC12Vw"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "gxrSspC12Vw",
+        "videoPublishedAt": "2021-08-08T16:37:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qsjHtdF1Np8_X-vVleIfcO5V1mE",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2021-08-08T16:37:51Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "12 قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثاني عشر\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S76YmmstqVk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S76YmmstqVk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S76YmmstqVk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S76YmmstqVk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "S76YmmstqVk"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "S76YmmstqVk",
+        "videoPublishedAt": "2021-08-08T16:37:52Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_Z99zzCpM-uXBNZP4Ga-_nJNd8w",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2021-08-08T16:38:31Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "13 قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثالث عشر\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R_k_tv7fcJA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R_k_tv7fcJA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R_k_tv7fcJA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/R_k_tv7fcJA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/R_k_tv7fcJA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "R_k_tv7fcJA"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "R_k_tv7fcJA",
+        "videoPublishedAt": "2021-08-08T16:38:35Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "W3RUlnVWntVmW3swbulXgpTr2vw",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2021-08-08T16:39:18Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "14 قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الرابع عشر\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vMYHdYYqRS0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vMYHdYYqRS0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vMYHdYYqRS0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vMYHdYYqRS0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vMYHdYYqRS0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vMYHdYYqRS0"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "vMYHdYYqRS0",
+        "videoPublishedAt": "2021-08-08T16:39:28Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5Yg9DNcIewUDl9tAS6cYlbwgpgI",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2021-08-08T16:40:27Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "15 كتاب قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الخامس عشر\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GA0Gu9ze12Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GA0Gu9ze12Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GA0Gu9ze12Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GA0Gu9ze12Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GA0Gu9ze12Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GA0Gu9ze12Q"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "GA0Gu9ze12Q",
+        "videoPublishedAt": "2021-08-08T16:40:28Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "STUOXV7un5cU_RzPnl4J-BVy9M4",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2021-08-08T16:41:12Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "16 قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس السادس عشر\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5pNFUhqFIBk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5pNFUhqFIBk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5pNFUhqFIBk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5pNFUhqFIBk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5pNFUhqFIBk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5pNFUhqFIBk"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "5pNFUhqFIBk",
+        "videoPublishedAt": "2021-08-08T16:41:28Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BlA5khsJMUsb-iGQ30YOYfHSP_A",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2021-08-08T16:42:16Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "17 قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس السابع عشر\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/16TpTicCS-A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/16TpTicCS-A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/16TpTicCS-A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/16TpTicCS-A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "16TpTicCS-A"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "16TpTicCS-A",
+        "videoPublishedAt": "2021-08-08T16:42:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cL1ck9s61GcROeVPBKWeLcvc7dE",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2021-08-08T16:42:56Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "18 كتاب قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثامن عشر\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RcObZJHijjo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RcObZJHijjo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RcObZJHijjo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RcObZJHijjo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RcObZJHijjo"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "RcObZJHijjo",
+        "videoPublishedAt": "2021-08-08T16:42:57Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "d9R3_010YO7Wjy_HJNE3hq3eH7w",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2021-08-08T16:43:35Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "19 كتاب قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس التاسع عشر\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bs2x5JdOqHI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bs2x5JdOqHI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bs2x5JdOqHI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bs2x5JdOqHI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bs2x5JdOqHI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bs2x5JdOqHI"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "bs2x5JdOqHI",
+        "videoPublishedAt": "2021-08-08T16:43:36Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MdQu3kCQh0T9bveZect0Ctv_TM4",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2021-08-08T16:44:15Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "20 كتاب قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس العشرون \nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nruYDEURnyw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nruYDEURnyw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nruYDEURnyw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nruYDEURnyw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nruYDEURnyw"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "nruYDEURnyw",
+        "videoPublishedAt": "2021-08-08T16:44:16Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7WTMWlgHoGuUF7PeTlfh-rNBVmU",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2021-08-08T16:45:03Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "21 كتاب قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الحادي والعشرون\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MIFaJHoIV9w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MIFaJHoIV9w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MIFaJHoIV9w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MIFaJHoIV9w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MIFaJHoIV9w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MIFaJHoIV9w"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "MIFaJHoIV9w",
+        "videoPublishedAt": "2021-08-08T16:45:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "B3T7NnRymoixltjfYe_XiZ3urHs",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2021-08-08T16:45:49Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "22 كتاب قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثاني والعشرون\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IdJY9x2mVRk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IdJY9x2mVRk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IdJY9x2mVRk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IdJY9x2mVRk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IdJY9x2mVRk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IdJY9x2mVRk"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "IdJY9x2mVRk",
+        "videoPublishedAt": "2021-08-08T16:45:50Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "f9WJB7rLhgqqCjgK8biWl23naSg",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2021-08-08T16:46:28Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "23 كتاب قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثالث والعشرون\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H68oCSdutHw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H68oCSdutHw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H68oCSdutHw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/H68oCSdutHw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/H68oCSdutHw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "H68oCSdutHw"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "H68oCSdutHw",
+        "videoPublishedAt": "2021-08-08T16:46:28Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rJJcP4Lk1zOZ8lbUPR0jzu8ydkI",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2021-08-08T17:15:15Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "24 كتاب قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الرابع والعشرون\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rGAPKxzhASA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rGAPKxzhASA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rGAPKxzhASA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rGAPKxzhASA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rGAPKxzhASA"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "rGAPKxzhASA",
+        "videoPublishedAt": "2021-08-08T17:15:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3pe370VG36NXwZUrAKsRNCZSR9U",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2021-08-08T17:16:00Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "25 كتاب قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الخامس والعشرون\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PK1BU4rPVcM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PK1BU4rPVcM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PK1BU4rPVcM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PK1BU4rPVcM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PK1BU4rPVcM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PK1BU4rPVcM"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "PK1BU4rPVcM",
+        "videoPublishedAt": "2021-08-08T17:16:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XU20kfQKKLvsZfqz9Scttn63WW8",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2021-08-08T17:16:46Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "26 كتاب قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس السادس والعشرون\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kQwCQSYsJ0Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kQwCQSYsJ0Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kQwCQSYsJ0Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kQwCQSYsJ0Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kQwCQSYsJ0Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kQwCQSYsJ0Q"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "kQwCQSYsJ0Q",
+        "videoPublishedAt": "2021-08-08T17:16:47Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kLzPys694sKBTmb8l9FxikhIpRo",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2021-08-08T17:17:16Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "27 كتاب قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس السابع والعشرون\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HVwToHlRLw0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HVwToHlRLw0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HVwToHlRLw0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HVwToHlRLw0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HVwToHlRLw0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HVwToHlRLw0"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "HVwToHlRLw0",
+        "videoPublishedAt": "2021-08-08T17:17:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VNZjVYdndqBJoEcL-XOftzchpBY",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2021-08-08T17:18:02Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "28 كتاب قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثامن والعشرون\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hgOayEdTyug/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hgOayEdTyug/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hgOayEdTyug/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hgOayEdTyug/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hgOayEdTyug"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "hgOayEdTyug",
+        "videoPublishedAt": "2021-08-08T17:18:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VGxQEb9mdyylGUj6FBqub5IzPN4",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2021-08-08T17:18:45Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "29 كتاب قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس التاسع والعشرون\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XGST7tvDWrM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XGST7tvDWrM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XGST7tvDWrM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XGST7tvDWrM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XGST7tvDWrM"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "XGST7tvDWrM",
+        "videoPublishedAt": "2021-08-08T17:18:53Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WkUu5mPvXzyZyeit1I1nXcrMmYY",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2021-08-08T17:19:43Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "30 كتاب قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثلاثون \nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZpjvUhWDJjM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZpjvUhWDJjM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZpjvUhWDJjM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZpjvUhWDJjM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZpjvUhWDJjM"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "ZpjvUhWDJjM",
+        "videoPublishedAt": "2021-08-08T17:19:50Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jSdvX3Ex1Dcd9gSkjrpyX5Hd2HU",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2021-08-08T17:20:45Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "31 كتاب قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الحادي والثلاثون\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AJptE6BtSHQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AJptE6BtSHQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AJptE6BtSHQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AJptE6BtSHQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AJptE6BtSHQ"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "AJptE6BtSHQ",
+        "videoPublishedAt": "2021-08-08T17:20:54Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FUYAOX0GEFclUM6MEOGHvRJM9pk",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2021-08-08T17:21:40Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "32 كتاب قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثاني والثلاثون\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VQ4JZ7RvwL8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VQ4JZ7RvwL8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VQ4JZ7RvwL8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VQ4JZ7RvwL8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VQ4JZ7RvwL8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VQ4JZ7RvwL8"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "VQ4JZ7RvwL8",
+        "videoPublishedAt": "2021-08-08T17:21:55Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VJzOrf25pYS52_6MDyslHkRCK40",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2021-08-08T17:22:45Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "33 كتاب قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثالث والثلاثون\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eMo_vDZGb3k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eMo_vDZGb3k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eMo_vDZGb3k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eMo_vDZGb3k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eMo_vDZGb3k"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "eMo_vDZGb3k",
+        "videoPublishedAt": "2021-08-08T17:22:46Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gSjXxoZFVO7aqIxVLh_A9Tgv6VE",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2021-08-08T17:23:18Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "34 كتاب قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الرابع والثلاثون\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k2z0S9V4Lhw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k2z0S9V4Lhw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k2z0S9V4Lhw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/k2z0S9V4Lhw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "k2z0S9V4Lhw"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "k2z0S9V4Lhw",
+        "videoPublishedAt": "2021-08-08T17:23:30Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "d8eREDvSIaB56Ifl3qZVcU72xbs",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2021-08-15T16:19:52Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "35 كتاب قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الخامس والثلاثون\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FUIJPJDDs68/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FUIJPJDDs68/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FUIJPJDDs68/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FUIJPJDDs68/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FUIJPJDDs68/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FUIJPJDDs68"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "FUIJPJDDs68",
+        "videoPublishedAt": "2021-08-15T16:20:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Nofem0mgdOL-pkcJQod_ifTe78k",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2021-08-15T16:21:05Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "36 كتاب قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس السادس والثلاثون\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AfX7gSBq1X4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AfX7gSBq1X4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AfX7gSBq1X4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AfX7gSBq1X4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AfX7gSBq1X4"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "AfX7gSBq1X4",
+        "videoPublishedAt": "2021-08-15T16:21:20Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uh-ELEiY03tFZ5j46MlHchHa7W0",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2021-08-15T16:23:49Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "37 كتاب قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس السابع والثلاثون\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EnLOk0vGtmg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EnLOk0vGtmg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EnLOk0vGtmg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EnLOk0vGtmg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EnLOk0vGtmg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EnLOk0vGtmg"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "EnLOk0vGtmg",
+        "videoPublishedAt": "2021-08-15T16:24:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-x8XRWBsHC1VTuT2sKbFd367U_A",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2021-08-15T16:24:50Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "38 كتاب قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثامن والثلاثون\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XmB-w3fnLTI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XmB-w3fnLTI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XmB-w3fnLTI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XmB-w3fnLTI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XmB-w3fnLTI"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "XmB-w3fnLTI",
+        "videoPublishedAt": "2021-08-15T16:25:19Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EkyDFH-B1pgpAMh4os6fO5Ws7cc",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2021-08-15T16:26:18Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "39 كتاب قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس التاسع والثلاثون\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NcTsjafQjY4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NcTsjafQjY4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NcTsjafQjY4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NcTsjafQjY4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NcTsjafQjY4"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "NcTsjafQjY4",
+        "videoPublishedAt": "2021-08-15T16:26:37Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Xge-CpCUF1Wcj9SvAD55upUKA6o",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2021-08-15T16:27:45Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "40 كتاب قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الأربعون\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NeDS81jbeUQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NeDS81jbeUQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NeDS81jbeUQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NeDS81jbeUQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NeDS81jbeUQ"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "NeDS81jbeUQ",
+        "videoPublishedAt": "2021-08-15T16:28:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Jb1hbpLCAASLA8YFVsjBfZBCnqo",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2021-08-15T16:28:58Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "41 كتاب قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الحادي والأربعون\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ThyR6JQf9B0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ThyR6JQf9B0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ThyR6JQf9B0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ThyR6JQf9B0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ThyR6JQf9B0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ThyR6JQf9B0"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "ThyR6JQf9B0",
+        "videoPublishedAt": "2021-08-15T16:29:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5eIAtpzSvD6y3RSyz6jLgPwmx-0",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS45NkVENTkxRDdCQUFBMDY4",
+      "snippet": {
+        "publishedAt": "2021-08-15T16:32:59Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "43 كتاب قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثالث والأربعون\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7isVaQ7mK4c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7isVaQ7mK4c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7isVaQ7mK4c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7isVaQ7mK4c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7isVaQ7mK4c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7isVaQ7mK4c"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "7isVaQ7mK4c",
+        "videoPublishedAt": "2021-08-15T17:19:22Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "d1BPLY7hQxyDGKN_qr_K80CUOLg",
+      "id": "UExzTV9SeHFJdlJ0cDlQdEFBdC1Pa2txQ1c1em91OXZsQS5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2021-08-15T16:34:41Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "42 كتاب قواعد العقائد من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثاني والأربعون\nفى شرح كتاب قواعد العقائد من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D0mzl4BDx-w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D0mzl4BDx-w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D0mzl4BDx-w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D0mzl4BDx-w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtp9PtAAt-OkkqCW5zou9vlA",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "D0mzl4BDx-w"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "D0mzl4BDx-w",
+        "videoPublishedAt": "2021-08-15T16:34:52Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 43,
+    "resultsPerPage": 50
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "c1GZUXXjlarhkJdyoFUxyruddh0",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nrya6whohGBtMfuHag5SPuK1c5w",
+      "id": "UExzTV9SeHFJdlJ0cmVNWlJObDdsUVdqRFZycF9xdGs1TC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2021-08-22T21:10:22Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "الإمام الرفاعى نشأته وكرامة تقبيل يد النبى ﷺ - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الإمام الرفاعى نشأته وكرامة تقبيل يد النبى ﷺ\n\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف  بمسجد سيدى الشيخ صالح الجعفرى ببنى عدي أسيوط فى ذكرى الاحتفال بمولد الإمام الرفاعى عام 2020م\n\n\n\n\n\n\n\nفي حالة البعد روحي كنت أرسلها,\n تقبل الارض عني و هي نائبتي ,\nو هذه دولة الاشباح قد حضرت ,\nفأمدد يمينك كي تحظى بها شفتي,\nأحمد بن علي الرفاعي ,\nالإمام الرفاعى ,\n\nأبو العلمين,\nشيخ الطرائق,\n\nالشيخ الكبير,\nأستاذ الجماعة,\nمنصور البطائحي,\nالطريقة الرفاعية ,\nأحمد الرفاعي الشيخ الكبير وقطب الأقطاب الصوفية,\n\nكرامة تقبيل يد النبي عليه الصلاة والسلام,\nقصة مـد يـد النبي من خــارج قــبره ,\n\nسلكت كل الطرق الموصلة فما رأيت أقرب ولا أسهل ولا أصلح من الافتقار والذل والانكسار,\nالشيخ أحمد الرفاعي يقبل يد النبي ,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gujZB6M4ZV0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gujZB6M4ZV0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gujZB6M4ZV0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gujZB6M4ZV0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtreMZRNl7lQWjDVrp_qtk5L",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gujZB6M4ZV0"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "gujZB6M4ZV0",
+        "videoPublishedAt": "2021-08-22T21:10:23Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "D2_FKtF0ghOg_PaYpGT5KEIIjPc",
+      "id": "UExzTV9SeHFJdlJ0cmVNWlJObDdsUVdqRFZycF9xdGs1TC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2021-08-22T21:25:22Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "الأستاذ الدكتور أحمد طه ريان يتحدث عن مولانا الإمام الجعفرى - أ.د محمد سيد سلطان",
+        "description": "الأستاذ الدكتور أحمد طه ريان - رحمه الله - يتحدث عن مولانا الإمام الجعفرى رضى الله عنه\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان بمسجد سيدى الشيخ صالح الجعفرى ببنى عدي - أسيوط  فى ذكرى الاحتفال بمولد الإمامين الجليلين سيدى الشيخ صالح الجعفرى وسيدى الشيخ عبد الغنى الجعفرى رضى الله عنهما يوم الخميس 6 رجب 1442 هـ الموافق 18 فبراير 2021م",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X0Knh7juaRA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X0Knh7juaRA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X0Knh7juaRA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X0Knh7juaRA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtreMZRNl7lQWjDVrp_qtk5L",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "X0Knh7juaRA"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "X0Knh7juaRA",
+        "videoPublishedAt": "2021-08-22T21:25:23Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3jf7G_UxORkCr3y3Rg5FtMia038",
+      "id": "UExzTV9SeHFJdlJ0cmVNWlJObDdsUVdqRFZycF9xdGs1TC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2021-08-24T17:30:51Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "طريقة السيد أحمد بن إدريس ومنهجه فى السير إلى الله تعالى  -كلمة  الأستاذ الدكتور محمد سيد سلطان",
+        "description": "طريقة السيد أحمد بن إدريس ومنهجه فى السير إلى الله تعالى \nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور / محمد سيد سلطان بمسجد سيدى الشيخ صالح الجعفرى ببنى عدي – أسيوط  \nعام 2020م\n\nالتهليل المخصوص: \"لا إله إلا الله محمد رسول الله في كل لمحة و نفس عدد ما وسعه علم الله\"\nالاستغفار الكبير: \"أستغفر الله العظيم الذي لا إله إلا هو الحي القيوم، وأتوب إليه من جميع المعاصي كلهاوالذنوب والآثام، ومن كل ذنب أذنبته عمداً وخطأ ظاهراً وباطناً قولاً وفعلا، في جميع حركاتي وسكناتي وخطراتي وأنفاسي كلها دائماً أبداً سرمداً، من الذنب الذي أعلم ومن الذنب الذي لا أعلم، عدد ما أحاط به العلم وأحصاه الكتاب وخطه القلم، وعدد ما أوجدته القدرة وخصصته الإرادة، ومداد كلمات الله كما ينبغي لجلال وجه ربنا، وجماله وكماله وكما يحب ربنا ويرضى، في كل لمحة ونفس عدد ما وسعه علم الله\"\nالصلاة العظيمية: \"اللهم انى أسألك بنور وجهك العظيم، الذي ملأ أركان عرش الله العظيم، وقامت به عوالم الله العظيم، أن تصل على سيدنا و نبينا و مولانا محمد ذى القدر العظيم، وعلى آل نبى الله العظيم، بقدر عظمة ذات الله العظيم، في كل لمحة و نفس، عدد ما في علم الله العظيم، صلاة دائمة بدوام ملك الله العلى العظيم، تعظيما لحقك يا سيدنا و مولانا محمداً يا ذا الخلق العظيم، وسلم عليه وعلى آله و صحبه مثل ذلك، واجمع بينى وبينه كما جمعت بين الروح و النفس، ظاهرا و باطنا يقظة و مناما و اجعله يا رب روحا لذاتى، في جميع الوجوه، في الدنيا و الآخرة يا عظيم\"\n\n\nأحمد بن إدريس الفاسي,\nالسيد أحمد بن ادريس,\nالسيد الإمام احمد بن ادريس الحسني,\n الشيخ عبد المجيد المجديرى,\n الشيخ عبد الوهاب التازى رضى الله عنه,\n\nالسيد الشريف محمد بن علي السنوسي الشهير بـ السنوسي الكبير,\nالشيخ إبراهيم الرشيد,\nالسيد الميرغني,\nالسيد الطيب بن محمد بن ادريس و هو ابن اخيه,\nالشيخ محمد المجدوب العباسي السواكني,\nالشيخ على عبد الحق القوصي,\nالشريف عبد الرحمن بن سليمان الأهدل,\nالسيد سليمان بن ابي القاسم الأهدل,\nالسيد بشير بن شبير بن مبارك الحسني,\n الشيخ صالح الجعفري (رضى الله عنه),\nأحمد بن إدريس العرائشي اليملحي العلمي الحسنى أبو العباس الحسيني,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v6p3oqKRvBM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v6p3oqKRvBM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v6p3oqKRvBM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v6p3oqKRvBM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtreMZRNl7lQWjDVrp_qtk5L",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "v6p3oqKRvBM"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "v6p3oqKRvBM",
+        "videoPublishedAt": "2021-08-24T17:30:52Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "M81tEMOP2bqC4w2D1Wqweqok4hc",
+      "id": "UExzTV9SeHFJdlJ0cmVNWlJObDdsUVdqRFZycF9xdGs1TC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2021-08-28T08:47:51Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "من مناقب السيدة زينب بنت الإمام على رضى الله عنهما  - كلمة الأستاذ الدكتور محمد سيد سلطان",
+        "description": "من مناقب السيدة زينب بنت الإمام على رضى الله عنها  - كلمة الأستاذ الدكتور محمد سيد سلطان\nكلمة ألقاها فضيلة الشيخ الأستاذ الدكتور / محمد سيد سلطان بمسجد سيدى الشيخ صالح الجعفرى ببنى عدي – أسيوط يوم الثلاثاء 25 رجب 1442 هـ الموافق 9 مارس 2021م",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WV5_Wwng_bQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WV5_Wwng_bQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WV5_Wwng_bQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WV5_Wwng_bQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtreMZRNl7lQWjDVrp_qtk5L",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WV5_Wwng_bQ"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "WV5_Wwng_bQ",
+        "videoPublishedAt": "2021-08-24T22:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9WGMxuui3M_cmRloAg4Fd99PTTM",
+      "id": "UExzTV9SeHFJdlJ0cmVNWlJObDdsUVdqRFZycF9xdGs1TC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2021-08-28T08:48:22Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "من مناقب السيد أحمد بن إدريس  - كلمة الأستاذ الدكتور محمد سيد سلطان",
+        "description": "من مناقب السيد أحمد بن إدريس \n\nكلمة ألقاها فضيلة الشيخ الأستاذ الدكتور / محمد سيد سلطان بمسجد سيدى الشيخ صالح الجعفرى ببنى عدي – أسيوط يوم الخميس 20 رجب 1442 هـ الموافق 4 مارس 2021م\n \n\n\n\n\nالتهليل المخصوص: \"لا إله إلا الله محمد رسول الله في كل لمحة و نفس عدد ما وسعه علم الله\"\nالاستغفار الكبير: \"أستغفر الله العظيم الذي لا إله إلا هو الحي القيوم، وأتوب إليه من جميع المعاصي كلهاوالذنوب والآثام، ومن كل ذنب أذنبته عمداً وخطأ ظاهراً وباطناً قولاً وفعلا، في جميع حركاتي وسكناتي وخطراتي وأنفاسي كلها دائماً أبداً سرمداً، من الذنب الذي أعلم ومن الذنب الذي لا أعلم، عدد ما أحاط به العلم وأحصاه الكتاب وخطه القلم، وعدد ما أوجدته القدرة وخصصته الإرادة، ومداد كلمات الله كما ينبغي لجلال وجه ربنا، وجماله وكماله وكما يحب ربنا ويرضى، في كل لمحة ونفس عدد ما وسعه علم الله\"\nالصلاة العظيمية: \"اللهم انى أسألك بنور وجهك العظيم، الذي ملأ أركان عرش الله العظيم، وقامت به عوالم الله العظيم، أن تصل على سيدنا و نبينا و مولانا محمد ذى القدر العظيم، وعلى آل نبى الله العظيم، بقدر عظمة ذات الله العظيم، في كل لمحة و نفس، عدد ما في علم الله العظيم، صلاة دائمة بدوام ملك الله العلى العظيم، تعظيما لحقك يا سيدنا و مولانا محمداً يا ذا الخلق العظيم، وسلم عليه وعلى آله و صحبه مثل ذلك، واجمع بينى وبينه كما جمعت بين الروح و النفس، ظاهرا و باطنا يقظة و مناما و اجعله يا رب روحا لذاتى، في جميع الوجوه، في الدنيا و الآخرة يا عظيم\"\n\n\nأحمد بن إدريس الفاسي,\nالسيد أحمد بن ادريس,\nالسيد الإمام احمد بن ادريس الحسني,\n الشيخ عبد المجيد المجديرى,\n الشيخ عبد الوهاب التازى رضى الله عنه,\n\nالسيد الشريف محمد بن علي السنوسي الشهير بـ السنوسي الكبير,\nالشيخ إبراهيم الرشيد,\nالسيد الميرغني,\nالسيد الطيب بن محمد بن ادريس و هو ابن اخيه,\nالشيخ محمد المجدوب العباسي السواكني,\nالشيخ على عبد الحق القوصي,\nالشريف عبد الرحمن بن سليمان الأهدل,\nالسيد سليمان بن ابي القاسم الأهدل,\nالسيد بشير بن شبير بن مبارك الحسني,\n الشيخ صالح الجعفري (رضى الله عنه),\nأحمد بن إدريس العرائشي اليملحي العلمي الحسنى أبو العباس الحسيني,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5f0PaeeP2zw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5f0PaeeP2zw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5f0PaeeP2zw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5f0PaeeP2zw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtreMZRNl7lQWjDVrp_qtk5L",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5f0PaeeP2zw"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "5f0PaeeP2zw",
+        "videoPublishedAt": "2021-08-24T22:15:02Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 5,
+    "resultsPerPage": 6
+  }
+}

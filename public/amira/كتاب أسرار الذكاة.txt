@@ -1,0 +1,893 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "6kAj1wHnZzsxe1rkh-sTrFsRICU",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "edDKBKB6U94mTfa7FEFc6R2s2k4",
+      "id": "UExzTV9SeHFJdlJ0cThJX3h0b1VFeTdXYnFhRWYtSHB4cy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2021-08-22T16:10:18Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "01  كتاب أسرار الزكاة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الأول\nفى شرح كتاب أسرار الزكاة من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3xCB2wXPZtY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3xCB2wXPZtY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3xCB2wXPZtY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3xCB2wXPZtY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3xCB2wXPZtY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq8I_xtoUEy7WbqaEf-Hpxs",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3xCB2wXPZtY"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "3xCB2wXPZtY",
+        "videoPublishedAt": "2021-08-22T16:10:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fBRNvVzUCrNdVgdi1FB6iHx0iu0",
+      "id": "UExzTV9SeHFJdlJ0cThJX3h0b1VFeTdXYnFhRWYtSHB4cy4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2021-08-22T16:11:15Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "02 كتاب أسرار الزكاة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثاني\nفى شرح كتاب أسرار الزكاة من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uPyBcGdIX9A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uPyBcGdIX9A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uPyBcGdIX9A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uPyBcGdIX9A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uPyBcGdIX9A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq8I_xtoUEy7WbqaEf-Hpxs",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uPyBcGdIX9A"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "uPyBcGdIX9A",
+        "videoPublishedAt": "2021-08-22T16:11:16Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "m5lz4gJFjT6HURWskQzRZTYV6TM",
+      "id": "UExzTV9SeHFJdlJ0cThJX3h0b1VFeTdXYnFhRWYtSHB4cy4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2021-08-22T16:12:16Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "03  كتاب أسرار الزكاة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثالث\nفى شرح كتاب أسرار الزكاة من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6HQgwk-Bb9U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6HQgwk-Bb9U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6HQgwk-Bb9U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6HQgwk-Bb9U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6HQgwk-Bb9U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq8I_xtoUEy7WbqaEf-Hpxs",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6HQgwk-Bb9U"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "6HQgwk-Bb9U",
+        "videoPublishedAt": "2021-08-22T16:12:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "t4Pmd0zMd1239ZDveH_zW7j9OHo",
+      "id": "UExzTV9SeHFJdlJ0cThJX3h0b1VFeTdXYnFhRWYtSHB4cy41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2021-08-22T16:12:52Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "04  كتاب أسرار الزكاة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الرابع\nفى شرح كتاب أسرار الزكاة من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Cw_rqj_uOpM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Cw_rqj_uOpM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cw_rqj_uOpM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Cw_rqj_uOpM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Cw_rqj_uOpM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq8I_xtoUEy7WbqaEf-Hpxs",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Cw_rqj_uOpM"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "Cw_rqj_uOpM",
+        "videoPublishedAt": "2021-08-22T16:12:53Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ufVS_1G8wC9lgnNPcW8IiIlpo0U",
+      "id": "UExzTV9SeHFJdlJ0cThJX3h0b1VFeTdXYnFhRWYtSHB4cy4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2021-08-22T16:13:46Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "05  كتاب أسرار الزكاة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الخامس\nفى شرح كتاب أسرار الزكاة من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8_yzytAD_PA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8_yzytAD_PA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8_yzytAD_PA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8_yzytAD_PA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq8I_xtoUEy7WbqaEf-Hpxs",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8_yzytAD_PA"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "8_yzytAD_PA",
+        "videoPublishedAt": "2021-08-22T16:13:47Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MWkadg3zNIguv-OoDPTxbmCunis",
+      "id": "UExzTV9SeHFJdlJ0cThJX3h0b1VFeTdXYnFhRWYtSHB4cy4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2021-08-22T16:14:27Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "06  كتاب أسرار الزكاة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس السادس\nفى شرح كتاب أسرار الزكاة من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O-LcTWyE6IE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O-LcTWyE6IE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O-LcTWyE6IE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O-LcTWyE6IE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/O-LcTWyE6IE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq8I_xtoUEy7WbqaEf-Hpxs",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "O-LcTWyE6IE"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "O-LcTWyE6IE",
+        "videoPublishedAt": "2021-08-22T16:14:28Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Y65hlnOrGTUgRHFk8ORX8Hgbzi4",
+      "id": "UExzTV9SeHFJdlJ0cThJX3h0b1VFeTdXYnFhRWYtSHB4cy41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2021-08-22T16:15:06Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "07  كتاب أسرار الزكاة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس السابع \nفى شرح كتاب أسرار الزكاة من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2H-xSkEtV6c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2H-xSkEtV6c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2H-xSkEtV6c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2H-xSkEtV6c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2H-xSkEtV6c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq8I_xtoUEy7WbqaEf-Hpxs",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2H-xSkEtV6c"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "2H-xSkEtV6c",
+        "videoPublishedAt": "2021-08-22T16:15:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cjdct90vOR5Tu0CpLz6Hjrcjlxg",
+      "id": "UExzTV9SeHFJdlJ0cThJX3h0b1VFeTdXYnFhRWYtSHB4cy5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2021-08-22T16:15:47Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "08  كتاب أسرار الزكاة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثامن\nفى شرح كتاب أسرار الزكاة من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Sn0Ai0ed9lQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Sn0Ai0ed9lQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Sn0Ai0ed9lQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Sn0Ai0ed9lQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Sn0Ai0ed9lQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq8I_xtoUEy7WbqaEf-Hpxs",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Sn0Ai0ed9lQ"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "Sn0Ai0ed9lQ",
+        "videoPublishedAt": "2021-08-22T16:15:48Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "a_JadkpiZu62LeHfVlcKbBWcWO0",
+      "id": "UExzTV9SeHFJdlJ0cThJX3h0b1VFeTdXYnFhRWYtSHB4cy45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2021-08-22T16:16:31Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "09  كتاب أسرار الزكاة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس التاسع\nفى شرح كتاب أسرار الزكاة من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ri3q5F-e_nA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ri3q5F-e_nA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ri3q5F-e_nA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ri3q5F-e_nA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ri3q5F-e_nA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq8I_xtoUEy7WbqaEf-Hpxs",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ri3q5F-e_nA"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "Ri3q5F-e_nA",
+        "videoPublishedAt": "2021-08-22T16:16:32Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "x0zd9vsRThnEe-s09a2rn1TKfOQ",
+      "id": "UExzTV9SeHFJdlJ0cThJX3h0b1VFeTdXYnFhRWYtSHB4cy5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2021-08-22T16:17:38Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "10  كتاب أسرار الزكاة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس العاشر\nفى شرح كتاب أسرار الزكاة من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BfVxZbAx1vo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BfVxZbAx1vo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BfVxZbAx1vo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BfVxZbAx1vo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BfVxZbAx1vo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq8I_xtoUEy7WbqaEf-Hpxs",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BfVxZbAx1vo"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "BfVxZbAx1vo",
+        "videoPublishedAt": "2021-08-22T16:17:39Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kWC5KVh1575uIP4hUAjYc12jvZg",
+      "id": "UExzTV9SeHFJdlJ0cThJX3h0b1VFeTdXYnFhRWYtSHB4cy40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2021-08-22T16:18:34Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "11  كتاب أسرار الزكاة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الحادي عشر\nفى شرح كتاب أسرار الزكاة من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xUNCFbBZ3kw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xUNCFbBZ3kw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xUNCFbBZ3kw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xUNCFbBZ3kw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xUNCFbBZ3kw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq8I_xtoUEy7WbqaEf-Hpxs",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xUNCFbBZ3kw"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "xUNCFbBZ3kw",
+        "videoPublishedAt": "2021-08-22T16:18:35Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RTp_6P1hPktQWR_MECfssjJXQa0",
+      "id": "UExzTV9SeHFJdlJ0cThJX3h0b1VFeTdXYnFhRWYtSHB4cy5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2021-08-22T16:19:22Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "12 كتاب أسرار الزكاة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثاني عشر\nفى شرح كتاب أسرار الزكاة من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GCaDYu1Rmsk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GCaDYu1Rmsk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GCaDYu1Rmsk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GCaDYu1Rmsk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq8I_xtoUEy7WbqaEf-Hpxs",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GCaDYu1Rmsk"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "GCaDYu1Rmsk",
+        "videoPublishedAt": "2021-08-22T16:19:23Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RzTh20tFzUMOFB1d_W5b136w3bA",
+      "id": "UExzTV9SeHFJdlJ0cThJX3h0b1VFeTdXYnFhRWYtSHB4cy45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2021-08-22T16:20:06Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "13  كتاب أسرار الزكاة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثالث عشر\nفى شرح كتاب أسرار الزكاة من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4V1kTKOto1Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4V1kTKOto1Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4V1kTKOto1Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4V1kTKOto1Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq8I_xtoUEy7WbqaEf-Hpxs",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4V1kTKOto1Y"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "4V1kTKOto1Y",
+        "videoPublishedAt": "2021-08-22T16:20:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZY35ihNzZMm_VtGodLFG7yUtRV8",
+      "id": "UExzTV9SeHFJdlJ0cThJX3h0b1VFeTdXYnFhRWYtSHB4cy4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2021-08-22T16:20:54Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "14  كتاب أسرار الزكاة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الرابع عشر\nفى شرح كتاب أسرار الزكاة من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ptYew2GHRfk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ptYew2GHRfk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ptYew2GHRfk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ptYew2GHRfk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq8I_xtoUEy7WbqaEf-Hpxs",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ptYew2GHRfk"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "ptYew2GHRfk",
+        "videoPublishedAt": "2021-08-22T16:20:54Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "o2PyoBYRLgcFTWEpwjqiUMVtnNQ",
+      "id": "UExzTV9SeHFJdlJ0cThJX3h0b1VFeTdXYnFhRWYtSHB4cy41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2021-08-22T16:21:34Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "15  كتاب أسرار الزكاة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الخامس عشر\nفى شرح كتاب أسرار الزكاة من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ddz7SY6dch0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ddz7SY6dch0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ddz7SY6dch0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq8I_xtoUEy7WbqaEf-Hpxs",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ddz7SY6dch0"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "ddz7SY6dch0",
+        "videoPublishedAt": "2021-08-22T16:21:35Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3a6UmYhz-1dPzpH5yLQi9pWaq2Y",
+      "id": "UExzTV9SeHFJdlJ0cThJX3h0b1VFeTdXYnFhRWYtSHB4cy5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2021-08-22T16:22:20Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "16 كتاب أسرار الزكاة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس السادس عشر\nفى شرح كتاب أسرار الزكاة من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dsUnkpZe6rU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dsUnkpZe6rU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dsUnkpZe6rU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dsUnkpZe6rU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dsUnkpZe6rU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq8I_xtoUEy7WbqaEf-Hpxs",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dsUnkpZe6rU"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "dsUnkpZe6rU",
+        "videoPublishedAt": "2021-08-22T16:22:21Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WxAHgmLZe75qzs-A7WnWmbOG2GI",
+      "id": "UExzTV9SeHFJdlJ0cThJX3h0b1VFeTdXYnFhRWYtSHB4cy41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2021-08-22T16:22:58Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "17  كتاب أسرار الزكاة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس السابع عشر\nفى شرح كتاب أسرار الزكاة من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z3hWWlgA7ZI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z3hWWlgA7ZI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z3hWWlgA7ZI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Z3hWWlgA7ZI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq8I_xtoUEy7WbqaEf-Hpxs",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Z3hWWlgA7ZI"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "Z3hWWlgA7ZI",
+        "videoPublishedAt": "2021-08-22T16:22:59Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZFLJduBTHPeZd5qsWS9gpUIwC5w",
+      "id": "UExzTV9SeHFJdlJ0cThJX3h0b1VFeTdXYnFhRWYtSHB4cy4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2021-08-22T16:23:45Z",
+        "channelId": "UCH1_lZBvUlVGNqzhcm8rZyw",
+        "title": "18كتاب أسرار الزكاة من إحياء علوم الدين - الأستاذ الدكتور محمد سيد سلطان",
+        "description": "الدرس الثامن عشر\nفى شرح كتاب أسرار الزكاة من كتاب إحياء علوم الدين \nلحجة الإسلام أبي حامد محمد بن محمد الغزالي الطوسي الشافعي (450 هـ - 505 هـ )\nبشرح الشيخ أحمد بن أحمد بن محمد بن عيسى البرنسي الفاسي المعروف بـزرّوق (846 هـ - 899 هـ(\nدروس ألقاها فضيلة الشيخ الأستاذ الدكتور محمد سيد سلطان من علماء الأزهر الشريف",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yeBZRzOnr5c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yeBZRzOnr5c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yeBZRzOnr5c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yeBZRzOnr5c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yeBZRzOnr5c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "playlistId": "PLsM_RxqIvRtq8I_xtoUEy7WbqaEf-Hpxs",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yeBZRzOnr5c"
+        },
+        "videoOwnerChannelTitle": "الأستاذ الدكتور محمد سيد سلطان",
+        "videoOwnerChannelId": "UCH1_lZBvUlVGNqzhcm8rZyw"
+      },
+      "contentDetails": {
+        "videoId": "yeBZRzOnr5c",
+        "videoPublishedAt": "2021-08-22T16:23:45Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 18,
+    "resultsPerPage": 50
+  }
+}
